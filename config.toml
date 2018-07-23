@@ -1,0 +1,3 @@
+baseurl = "https://example.org"
+title = "Universal"
+theme = "hugo-universal-theme"
