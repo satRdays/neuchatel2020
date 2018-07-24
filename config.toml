@@ -1,3 +1,8 @@
-baseurl = "https://example.org"
-title = "Universal"
+baseURL = ""
+title = "satRday"
 theme = "hugo-universal-theme"
+
+[params]
+# Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "default"
+    logo = "img/satrday-logo.png"
