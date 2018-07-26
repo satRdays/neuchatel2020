@@ -1,8 +1,6 @@
-baseURL = ""
+baseURL = "satRday_template"
 title = "satRday"
 theme = "hugo-universal-theme"
-
 [params]
-# Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
-    logo = "img/satrday-logo.png"
+    logo = "img/satrday-logo-text-100px.png"
+    logo_small = "img/satrday-logo-text-50px.png"
