@@ -126,6 +126,10 @@ googleAnalytics = ""
       description = "Inclusive, supportive and respectful environment"
       url = "#"
 
+  # Schedule section
+  [params.schedule]
+    enable = true
+    title = "Schedule"
 
   # Portfolio section
   [params.portfolio]
