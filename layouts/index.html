@@ -6,7 +6,7 @@
   <body id="page-top" class="index">
     {{ partial "nav.html" . }}
     {{ partial "hero.html" . }}
-	
+
     {{ if .Site.Params.services.enable }}
       {{ partial "services.html" . }}
     {{ end }}
@@ -14,21 +14,19 @@
     {{ if .Site.Params.eventbrite.enable }}
       {{ partial "eventbrite.html" . }}
     {{ end }}
-	
+
     {{ if .Site.Params.portfolio.enable }}
       {{ partial "portfolio.html" . }}
     {{ end }}
-	
-    
+
+
     {{ if .Site.Params.schedule.enable }}
       {{ partial "schedule.html" . }}
     {{ end }}
 
-<!--
     {{ if .Site.Params.about.enable }}
       {{ partial "about.html" . }}
     {{ end }}
-	-->
 
     {{ if .Site.Params.team.enable }}
       {{ partial "team.html" . }}
