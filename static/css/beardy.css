@@ -26,7 +26,7 @@ header {
 }
 
 .navbar-default .nav li a {
-    color: #fe8c17;
+    color: #2165B6;
 }
 
 .navbar-default .nav li a:hover,
@@ -35,16 +35,16 @@ header {
 }
 
 .text-primary {
-    color: #fe8c17;
+    color: #2165B6;
 }
 
 a {
-    color: #fe8c17;
+    color: #2165B6;
 }
 
 .btn-primary {
-    border-color: #fe8c17;
-    background-color: #fe8c17;
+    border-color: #2165B6;
+    background-color: #2165B6;
 }
 
 .btn-primary.disabled,
@@ -62,17 +62,17 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #fe8c17;
-    background-color: #fe8c17;
+    border-color: #2165B6;
+    background-color: #2165B6;
 }
 
 .btn-primary .badge {
-    color: #fe8c17;
+    color: #2165B6;
 }
 
 .btn-xl {
-    border-color: #fe8c17;
-    background-color: #fe8c17;
+    border-color: #2165B6;
+    background-color: #2165B6;
     text-transform: none;
     padding: 1rem 2rem;
     font-weight: normal;
@@ -104,63 +104,63 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-    border-color: #fe8c17;
-    background-color: #fe8c17;
+    border-color: #2165B6;
+    background-color: #2165B6;
 }
 
 .btn-xl .badge {
-    color: #fe8c17;
+    color: #2165B6;
 }
 
 .navbar-default .navbar-brand {
     font-family: Roboto, "Helvetica Neue", Helvetica, Arial, cursive;
-    color: #fe8c17;
+    color: #2165B6;
     text-transform: uppercase;
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #fe8c17;
-    background-color: #fe8c17;
+    border-color: #2165B6;
+    background-color: #2165B6;
 }
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #fe8c17;
+    background-color: #2165B6;
 }
 
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
-    color: #fe8c17;
+    color: #2165B6;
 }
 
 .navbar-default .navbar-nav>.active>a {
-    background-color: #fe8c17;
+    background-color: #2165B6;
 }
 
 .timeline>li .timeline-image {
-    background-color: #fe8c17;
+    background-color: #2165B6;
 }
 
 section#contact .form-control:focus {
-    border-color: #fe8c17;
+    border-color: #2165B6;
 }
 
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #fe8c17;
+    background-color: #2165B6;
 }
 
 ::-moz-selection {
-    background: #fe8c17;
+    background: #2165B6;
 }
 
 ::selection {
-    background: #fe8c17;
+    background: #2165B6;
 }
 
 body {
-    webkit-tap-highlight-color: #fe8c17;
+    webkit-tap-highlight-color: #2165B6;
 }
 
 
@@ -244,7 +244,7 @@ section h3.section-subheading {
 
 staticheader {
     text-align: center;
-    color: #fe8c17;
+    color: #2165B6;
 }
 
 staticheader .intro-text {
@@ -352,7 +352,7 @@ p.ps {
     max-width: 100%;
     height: auto;
     margin-right: 1rem;
-    border: 0.5rem solid #fe8c17;
+    border: 0.5rem solid #2165B6;
 }
 
 .Talk-title {
@@ -413,10 +413,10 @@ p.ps {
     align-items: center;
     padding: 0.25rem 1rem;
     text-decoration: none;
-    border-left: 0.5rem solid #fe8c17;
-    border-top: 1px solid #fe8c17;
-    border-bottom: 1px solid #fe8c17;
-    border-right: 1px solid #fe8c17;
+    border-left: 0.5rem solid #2165B6;
+    border-top: 1px solid #2165B6;
+    border-bottom: 1px solid #2165B6;
+    border-right: 1px solid #2165B6;
     margin-bottom: -1px;
 }
 
@@ -466,7 +466,7 @@ section {
     border: none;
     font-family: inherit;
     font-size: inherit;
-    color: #fe8c17;
+    color: #2165B6;
     background: none;
     background-color: white;
     cursor: pointer;
@@ -509,7 +509,7 @@ section {
 .btn-4:hover {
     color: white;
     background: none;
-    background-color: #fe8c17;
+    background-color: #2165B6;
     border: 3px solid #fff;
 }
 
@@ -551,7 +551,7 @@ header .intro-text .intro-heading {
     header {
         background-size: cover;
         background-repeat: no-repeat;
-        background-color: #fe8c17;
+        background-color: #2165B6;
         background-position: bottom right;
     }
 
@@ -574,7 +574,7 @@ header .intro-text .intro-heading {
     header {
         background-size: contain;
         background-repeat: no-repeat;
-        background-color: #fe8c17;
+        background-color: #2165B6;
         background-position: bottom right;
     }
 
@@ -598,7 +598,7 @@ header .intro-text .intro-heading {
     header {
         background-size: contain;
         background-repeat: no-repeat;
-        background-color: #fe8c17;
+        background-color: #2165B6;
         background-position: bottom right;
         padding-bottom: 8rem;
     }
