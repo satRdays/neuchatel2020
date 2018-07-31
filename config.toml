@@ -131,7 +131,7 @@ googleAnalytics = ""
     enable = true
     title = "Schedule"
 
-  # Portfolio section
+  # Talk [Portfolio] section
   [params.portfolio]
     enable = true
     # All projects defined in their own files. You can find example projects
@@ -148,7 +148,7 @@ googleAnalytics = ""
       buttonText = "Close project"
 
 
-    # About section
+    # Important Dates [About] section
   [params.about]
     enable = true
     title = "About"
