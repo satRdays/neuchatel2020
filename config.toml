@@ -82,7 +82,7 @@ googleAnalytics = ""
     buttonText = "Tell me more"
 
 
-  # Services section
+  # About [Services] section
   [params.services]
     enable = true
     title = "About"
@@ -126,6 +126,11 @@ googleAnalytics = ""
       description = "Inclusive, supportive and respectful environment"
       url = "#"
 
+  # Register section
+  [params.eventbrite]
+      enable = true
+      title = "Register"
+      
   # Schedule section
   [params.schedule]
     enable = true
