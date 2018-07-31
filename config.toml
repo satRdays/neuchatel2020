@@ -22,7 +22,7 @@ googleAnalytics = ""
   # email = "your@email.com"
 
   # Link custom assets relative to /static
-  custom_css = []
+  custom_css = ["css/beardy.css"]
   custom_js  = []
   favicon    = "favicon.ico"
 
