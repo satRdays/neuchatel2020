@@ -1,0 +1,13 @@
+modalID: 1
+title: "First Talk"
+subtitle: "First Subtitle"
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: faceholder.png
+client: Speaker One
+clientLink: "#"
+category: Category 1
+description: "Describe 1"
+talk: true
