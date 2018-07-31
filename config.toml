@@ -49,11 +49,12 @@ googleAnalytics = ""
     brand = "satRday"
     # Optional logo as brand stored in img/
     logo = "satrday-logo-text.png"
-    services = "Services"
-    portfolio = "Portfolio"
-    about = "About"
-    team = "Team"
-    contact = "Contact"
+    services = "About"
+    portfolio = "Talks"
+      eventbrite = "Register"
+    schedule = "Schedule"
+    team = "People"
+    contact = "Get involved"
 
     # Add custom links. Those can be pre- and postpended to the default menu above.
     # Use the weight attribute to order your custom links. Uncomment the example
@@ -77,35 +78,54 @@ googleAnalytics = ""
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "satRday [My City]"
-    subtitle = "A conference for users of R Lang in [My City]"
+    subtitle = "A conference for users of the R Language on [Conference Date]"
     buttonText = "Tell me more"
 
 
   # Services section
   [params.services]
     enable = true
-    title = "Services"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    title = "About"
+    subtitle = "Conference Details"
 
     [[params.services.row]]
 
     [[params.services.row.list]]
-      icon = "fa-shopping-cart"
-      title = "E-Commerce"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      icon = "fa-clock-o"
+      title = "Details"
+      description = "[Conference Date] at [Conference Location]"
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-laptop"
-      title = "Responsive Design"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      title = "Hands on"
+      description = "Practical applications and workshop sessions"
       url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-lock"
-      title = "Web"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      icon = "fa-graduation-cap"
+      title = "Learning"
+      description = "Gain knowledge from your peers and experienced proffesionals"
       url = "#"
+
+    [[params.services.row.list]]
+      icon = "fa-users"
+      title = "Community Lead"
+      description = "Community organised, community focussed"
+      url = "#"
+
+    [[params.services.row.list]]
+      icon = "fa-money"
+      title = "Affordable"
+      description = "Only [£30]"
+      url = "#"
+
+    [[params.services.row.list]]
+      icon = "fa-universal-access"
+      title = "Accessible"
+      description = "Inclusive, supportive and respectful environment"
+      url = "#"
+
 
   # Portfolio section
   [params.portfolio]
