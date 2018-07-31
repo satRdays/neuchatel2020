@@ -134,8 +134,8 @@ googleAnalytics = ""
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
-    title = "Portfolio"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    title = "Talks"
+    subtitle = "Who's saying what"
 
     [params.portfolio.modal]
       client = "Client"
