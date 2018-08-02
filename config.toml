@@ -2,7 +2,7 @@
 baseurl = "https://example.org/"
 languageCode = "en-us"
 title = "satRday"
-theme = "hugo-agency-theme"
+theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -130,7 +130,7 @@ googleAnalytics = ""
   [params.eventbrite]
       enable = true
       title = "Register"
-      
+
   # Schedule section
   [params.schedule]
     enable = true
