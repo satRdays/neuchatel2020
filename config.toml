@@ -186,6 +186,11 @@ googleAnalytics = ""
       date = "Fourth Date"
       title = "Call For Papers Ends"
       description = "Cut off date for speaker submissions"
+  
+  # Location section
+  [params.location]
+    enable = true
+    title = "Location title"
 
   # Team section
   [params.team]
