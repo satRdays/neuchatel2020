@@ -198,9 +198,11 @@ googleAnalytics = ""
     enable = true
     # Possibility to center items
     #center = true
-    title = "Organisers"
+    title = "Team"
     subtitle = "The people putting it together"
     description = ""
+    speakers = "Speakers"
+    
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
@@ -227,8 +229,8 @@ googleAnalytics = ""
 
     [[params.team.members]]
       img = "faceholder.png"
-      name = "Organiser Name 1"
-      position = "Organiser Role 1"
+      name = "Organiser Name 2"
+      position = "Organiser Role 2"
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
@@ -237,8 +239,8 @@ googleAnalytics = ""
 
     [[params.team.members]]
       img = "faceholder.png"
-      name = "Organiser Name 1"
-      position = "Organiser Role 1"
+      name = "Organiser Name 3"
+      position = "Organiser Role 3"
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
