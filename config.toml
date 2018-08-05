@@ -198,27 +198,27 @@ googleAnalytics = ""
     enable = true
     # Possibility to center items
     #center = true
-    title = "Our amazing team"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
-    description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+    title = "Organisers"
+    subtitle = "The people putting it together"
+    description = ""
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
-      img = "1.jpg"
-      name = "Kay Garland"
-      position = "Lead Designer"
-      reportsTo = "CTO"
+      img = "faceholder.png"
+      name = "Organiser Name 1"
+      position = "Organiser Role 1"
+      reportsTo = ""
       livesIn = "[Munich, Germany](#some-maps-url)"
       scope = [
-        "UX for [member dashboard](#)",
-        "Maintainer for [awesome-project](#)",
-        "Open Source [community management](#)"
+        "Role 1 for [thing 1](#)",
+        "Role 2 for [thing 2](#)",
+        "Role 3 for [thing 3](#)"
       ]
       # For bio markdown and even multiline strings are available.
-      bio = """Kay is an awesome Lead Designer with heaps of experience in the field of UX.
-She worked at Pied Piper for years until they went belly up."""
+      bio = """I do things,
+      and stuff"""
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
@@ -226,9 +226,9 @@ She worked at Pied Piper for years until they went belly up."""
       ]
 
     [[params.team.members]]
-      img = "2.jpg"
-      name = "Larry Parker"
-      position = "Lead Marketer"
+      img = "faceholder.png"
+      name = "Organiser Name 1"
+      position = "Organiser Role 1"
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
@@ -236,9 +236,9 @@ She worked at Pied Piper for years until they went belly up."""
       ]
 
     [[params.team.members]]
-      img = "3.jpg"
-      name = "Diana Pertersen"
-      position = "Lead Developer"
+      img = "faceholder.png"
+      name = "Organiser Name 1"
+      position = "Organiser Role 1"
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
