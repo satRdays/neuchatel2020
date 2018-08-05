@@ -4,7 +4,4 @@ organisation = "Company 2"
 role = "Role 1"
 social = [
         ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"],
-        ["fa-globe", "#"]
       ]
