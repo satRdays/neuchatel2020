@@ -210,7 +210,7 @@ googleAnalytics = ""
     [[params.team.members]]
       img = "faceholder.png"
       name = "Organiser Name 1"
-      position = "Organiser Role 1"
+      position = "Organiser Position 1"
       reportsTo = ""
       livesIn = "[Munich, Germany](#some-maps-url)"
       scope = [
@@ -223,27 +223,27 @@ googleAnalytics = ""
       and stuff"""
       social = [
         ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
+        ["fa-github", "#"],
         ["fa-linkedin", "#"]
       ]
 
     [[params.team.members]]
       img = "faceholder.png"
       name = "Organiser Name 2"
-      position = "Organiser Role 2"
+      position = "Organiser Position 2"
       social = [
         ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
+        ["fa-github", "#"],
         ["fa-linkedin", "#"]
       ]
 
     [[params.team.members]]
       img = "faceholder.png"
       name = "Organiser Name 3"
-      position = "Organiser Role 3"
+      position = "Organiser Position 3"
       social = [
         ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
+        ["fa-github", "#"],
         ["fa-linkedin", "#"]
       ]
 
