@@ -273,6 +273,10 @@ googleAnalytics = ""
       [[params.clients]]
         logo = "creative-market.jpg"
         link = "#"
+  
+  [params.diversity]
+    enable = true
+    title = "Diversity"
 
   # Contact section
   [params.contact]
