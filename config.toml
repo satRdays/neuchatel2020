@@ -24,7 +24,7 @@ googleAnalytics = ""
   # Link custom assets relative to /static
   custom_css = ["css/satrday.css"]
   custom_js  = []
-  favicon    = "favicon.ico"
+  favicon    = "img/favicon.ico"
 
   # Possibility to disable external/additional fonts
   # Exception: Fontawesome
