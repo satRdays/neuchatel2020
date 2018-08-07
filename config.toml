@@ -68,8 +68,8 @@ googleAnalytics = ""
 
     # postpended links
     [[menu.postpend]]
-      url = "http://gohugo.io"
-      name = "External link"
+      url = "http://satrdays.org/"
+      name = "satRdays.org"
       weight = 10
 
 
