@@ -48,7 +48,7 @@ googleAnalytics = ""
   [params.navigation]
     brand = "satRday"
     # Optional logo as brand stored in img/
-    logo = "satrday-logo-text.png"
+    logo = "logo.png"
     services = "About"
     portfolio = "Talks"
       eventbrite = "Register"
