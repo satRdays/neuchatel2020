@@ -51,7 +51,7 @@ googleAnalytics = ""
     logo = "logo.png"
     services = "About"
     portfolio = "Talks"
-      eventbrite = "Register"
+    eventbrite = "Register"
     schedule = "Schedule"
     team = "People"
     contact = "Get involved"
@@ -79,6 +79,7 @@ googleAnalytics = ""
     # the 'static/img' folder.
     title = "satRday [My City]"
     subtitle = "A conference for users of the R Language on [Conference Date]"
+    bg = true
     buttonText = "Tell me more"
 
 
@@ -128,13 +129,23 @@ googleAnalytics = ""
 
   # Register section
   [params.eventbrite]
-      enable = true
-      title = "Register"
-
-  # Schedule section
-  [params.schedule]
     enable = true
-    title = "Schedule"
+    title = "Register"
+    bg = true
+    eid = "" 
+      # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB 
+      # Follow instructions to discover your 'Website Integration' embeddable iframe
+      # Take ONLY the numeric string between "eid=" and "&ref=etckt"
+      # Supply this as the value to `eid` above
+  
+  # Call for papers section
+  [params.callforpapers]
+    enable = true
+    title = "Call For Papers"
+    bg = false
+    CfSpage = "/test3490"
+      # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
+    dates = "09 Aug - 21 Sep 2018"
 
   # Talk [Portfolio] section
   [params.portfolio]
@@ -145,6 +156,7 @@ googleAnalytics = ""
     # For more informtion take a look at the README.
     title = "Talks"
     subtitle = "Who's saying what"
+    bg = true
 
     [params.portfolio.modal]
       client = "Client"
@@ -152,8 +164,13 @@ googleAnalytics = ""
       category = "Category"
       buttonText = "Close project"
 
+  # Schedule section
+  [params.schedule]
+    enable = true
+    title = "Schedule"
+    bg = false
 
-    # Important Dates [About] section
+  # Important Dates [About] section
   [params.about]
     enable = true
     title = "Important Dates"
@@ -191,6 +208,7 @@ googleAnalytics = ""
   [params.location]
     enable = true
     title = "Location title"
+    bg = true
     iframesrc = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12770.336629178193!2d174.7680403!3d-36.8524341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x868a73f26ed3e621!2sDepartment+of+Statistics%2C+University+of+Auckland!5e0!3m2!1sen!2suk!4v1533231461829"
 
   # Team section
@@ -200,6 +218,7 @@ googleAnalytics = ""
     #center = true
     title = "Team"
     subtitle = "The people putting it together"
+    bg = false
     description = ""
     speakers = "Speakers"
     
@@ -248,35 +267,37 @@ googleAnalytics = ""
       ]
 
   # Client section
-    [params.clients_list]
-      enable = true
-      # Possibility to center items
-      #center = true
-      # Optional client title specifying the involvement
-      title = "Sponsors"
+  [params.clients_list]
+    enable = true
+    # Possibility to center items
+    #center = true
+    # Optional client title specifying the involvement
+    title = "Sponsors"
+    bg = true
 
-      # All the clients' logos are stored under 'static/img/logos'.
-      # Replace them with your clients's logos.
-      # Suggestion: .svg in the size of 280px*80px looks good
-      [[params.clients]]
-        logo = "envato.jpg"
-        link = "#"
+    # All the clients' logos are stored under 'static/img/logos'.
+    # Replace them with your clients's logos.
+    # Suggestion: .svg in the size of 280px*80px looks good
+    [[params.clients]]
+      logo = "envato.jpg"
+      link = "#"
 
-      [[params.clients]]
-        logo = "designmodo.jpg"
-        link = "#"
+    [[params.clients]]
+      logo = "designmodo.jpg"
+      link = "#"
 
-      [[params.clients]]
-        logo = "themeforest.jpg"
-        link = "#"
+    [[params.clients]]
+      logo = "themeforest.jpg"
+      link = "#"
 
-      [[params.clients]]
-        logo = "creative-market.jpg"
-        link = "#"
+    [[params.clients]]
+      logo = "creative-market.jpg"
+      link = "#"
   
   [params.diversity]
     enable = true
     title = "Diversity"
+    bg = true
 
   # Contact section
   [params.contact]
