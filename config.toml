@@ -367,18 +367,13 @@ googleAnalytics = ""
 
     [[params.footer.social]]
       icon = "fa-twitter"
-      link = "#"
+      link = "https://twitter.com/satrdays_org"
       title = "Twitter"
 
     [[params.footer.social]]
-      icon = "fa-facebook"
-      link = "#"
-      title = "Facebook"
-
-    [[params.footer.social]]
-      icon = "fa-linkedin"
-      link = "#"
-      title = "LinkedIn"
+      icon = "fa-github"
+      link = "https://github.com/satRdays"
+      title = "GitHub"
 
     [[params.footer.quicklinks]]
       text = "Privacy Policy"
