@@ -128,6 +128,7 @@ googleAnalytics = ""
       url = "#"
 
   # Register section
+  # You only need ONE of these active
   [params.eventbrite]
     enable = true
     title = "Register"
@@ -136,7 +137,16 @@ googleAnalytics = ""
       # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB 
       # Follow instructions to discover your 'Website Integration' embeddable iframe
       # Take ONLY the numeric string between "eid=" and "&ref=etckt"
-      # Supply this as the value to `eid` above
+      # Supply this string as the value to `eid` above
+
+  [params.tickettailor]
+    enable = true
+    title = "Register"
+    bg = true
+    eventviewid = ""
+      # Go to www.tickettailor.com and open your event page
+      # Note the number at the end of the url i.e. https://www.tickettailor.com/event/view/id/162430
+      # Supply the number ONLY in `eventviewid`
   
   # Call for papers section
   [params.callforpapers]
