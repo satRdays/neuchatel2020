@@ -89,4 +89,4 @@ As the design is strongly based on the `hugo-agency-theme`, naming conventions a
 * The `sponsors` section of `hugo-satrdays-theme` is built from the `clients` section of the `hugo-agency-theme`
 
 ## Video documentation
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3b7y_wan_d8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+- [How to configure the site](https://youtu.be/3b7y_wan_d8)
