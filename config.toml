@@ -106,7 +106,7 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-graduation-cap"
       title = "Learning"
-      description = "Gain knowledge from your peers and experienced proffesionals"
+      description = "Gain knowledge from your peers and experienced professionals"
       url = "#"
 
     [[params.services.row.list]]
