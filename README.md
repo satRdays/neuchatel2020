@@ -20,7 +20,7 @@ I can give you most of a website for satRdays events, ready (almost) out of the 
 
 ### How to use me
 
-#### Mirror the repository
+#### Set the repo as a mirror the main repository
 
 1. Open Git Bash.
 
