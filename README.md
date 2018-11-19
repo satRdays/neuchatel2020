@@ -27,7 +27,7 @@ I can give you most of a website for satRdays events, ready (almost) out of the 
 2. Create a bare clone of the repository.
 
   ```
-  git clone --bare satRdays/satRday_site_template.git
+  git clone --bare https://github.com/satRdays/satRday_site_template
   ```
 
 3. Mirror-push to the new repository.
