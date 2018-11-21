@@ -1,4 +1,4 @@
-## satRday_site_template
+## satRday Geneva 2019 Webpage
 
 ### What I can do
 
@@ -19,30 +19,6 @@ I can give you most of a website for satRdays events, ready (almost) out of the 
 * Links to satRdays Code of Conduct and Diversity materials
 
 ### How to use me
-
-#### Set the repo as a mirror the main repository
-
-1. Open Git Bash.
-
-2. Create a bare clone of the repository.
-
-  ```
-  git clone --bare https://github.com/satRdays/satRday_site_template
-  ```
-
-3. Mirror-push to the new repository.
-
-```
-cd satRday_site_template.git
-git push --mirror https://github.com/satRdays/[cityYEAR].git
-```
-
-4. Remove the temporary local repository you created in step 1.
-
-```
-cd ..
-rm -rf satRdays/satRday_site_template.git
-```
 
 #### Customise the config
 The file [config.toml](https://github.com/satRdays/satRday_site_template/blob/master/config.toml) gives you access to a number of points on the site, mostly using [site params](https://gohugo.io/variables/site/#the-site-params-variable).
