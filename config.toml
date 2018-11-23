@@ -17,8 +17,8 @@ googleAnalytics = ""
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "satRday [My City]"
-  description = "R conference in [My City]"
+  name = "satRday Geneva"
+  description = "R conference in Geneva"
   # email = "your@email.com"
 
   # Link custom assets relative to /static
