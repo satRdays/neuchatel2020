@@ -41,7 +41,7 @@ git push --mirror https://github.com/satRdays/[cityYEAR].git
 
 ```
 cd ..
-rm -rf satRdays/satRday_site_template.git
+rm -rf satRday_site_template.git
 ```
 
 #### Customise the config
