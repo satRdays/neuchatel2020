@@ -18,7 +18,7 @@ I can give you most of a website for satRdays events, ready (almost) out of the 
 * Important Dates
 * Links to satRdays Code of Conduct and Diversity materials
 
-### How to use me
+### Administrator tasks
 
 #### Set the repo as a mirror the main repository
 
@@ -44,6 +44,7 @@ cd ..
 rm -rf satRday_site_template.git
 ```
 
+### Organiser tasks
 #### Customise the config
 The file [config.toml](https://github.com/satRdays/satRday_site_template/blob/master/config.toml) gives you access to a number of points on the site, mostly using [site params](https://gohugo.io/variables/site/#the-site-params-variable).
 
