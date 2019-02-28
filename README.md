@@ -45,6 +45,17 @@ rm -rf satRday_site_template.git
 ```
 
 ### Organiser tasks
+#### Edit the base url in `config.toml`
+Change 
+```
+baseurl = "https://satrdays-event-template.netlify.com/"
+```
+to
+```
+baseurl = "https://yourcity20XX.satrdays.org/"
+```
+otherwise, images you upload to your site won't work.
+
 #### Customise the config
 The file [config.toml](https://github.com/satRdays/satRday_site_template/blob/master/config.toml) gives you access to a number of points on the site, mostly using [site params](https://gohugo.io/variables/site/#the-site-params-variable).
 
