@@ -93,6 +93,8 @@ In the hopefully rare event that even more specific material is needed you can e
 ### What I am
 I am a [Hugo](//gohugo.io) website, with two themes. [Agency](https://github.com/digitalcraftsman/hugo-agency-theme) provides the base layer of theming, with a custom [satRday](https://github.com/satRdays/hugo-satrdays-theme) theme which overides some areas.
 
+More information on installing [hugo](https://gohugo.io/getting-started/installing/), including setting it up for [local previews](https://gohugo.io/getting-started/usage/) can be found in the official docs.
+
 #### Some notes and gotchas
 As the design is strongly based on the `hugo-agency-theme`, naming conventions are not obvious in certain situations
 * The `talks` section of `hugo-satrdays-theme` is built from the `portfolio` section of the `hugo-agency-theme`
