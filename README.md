@@ -56,6 +56,8 @@ rm -rf satRday_site_template.git
 
 1. Make a new deploy from GitHub in the Satrdays Netlify Team
 
+2. The build command is `hugo` the build directory is `public`
+
 2. Rename the default domain to [cityYEAR].netlify.com
 
 3. Add the additional domain [cityYEAR].satrdays.com
