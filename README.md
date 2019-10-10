@@ -18,6 +18,8 @@ I can give you most of a website for satRdays events, ready (almost) out of the 
 * Important Dates
 * Links to satRdays Code of Conduct and Diversity materials
 
+If you want to have a website set up, please request this in the #satrdays-website slack channel of the R User Group organizers Slack (rusergroups.slack.com), tagging @DaveParr.
+
 ### Administrator tasks
 
 #### Set the repo as a mirror the main repository
@@ -30,19 +32,33 @@ I can give you most of a website for satRdays events, ready (almost) out of the 
   git clone --bare https://github.com/satRdays/satRday_site_template
   ```
 
-3. Mirror-push to the new repository.
+3. Make a GitHub Repo named `[cityYEAR]` in all lower case, no spaces
+
+4. Mirror-push to the new repository.
 
 ```
 cd satRday_site_template.git
 git push --mirror https://github.com/satRdays/[cityYEAR].git
 ```
 
-4. Remove the temporary local repository you created in step 1.
+5. Remove the temporary local repository you created in step 1.
 
 ```
 cd ..
 rm -rf satRday_site_template.git
 ```
+
+5. Make a GitHub Team and add the conference organisers as members
+
+6. Add the GitHub Team to the repo you made as 'Admin'
+
+#### Netlify
+
+1. Make a new deploy from GitHub in the Satrdays Netlify Team
+
+2. Rename the default domain to [cityYEAR].netlify.com
+
+3. Add the additional domain [cityYEAR].satrdays.com
 
 ### Organiser tasks
 #### Edit the base url in `config.toml`
