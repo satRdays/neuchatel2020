@@ -164,6 +164,20 @@ googleAnalytics = ""
     CfSpage = "/test3490"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
     dates = "09 Aug - 21 Sep 2018"
+  
+  # Hackathon section
+  [params.hackathon]
+    enable = true
+    bg = false
+    title = "Hackathon"
+    subtitle="Can you _Hack_ it?"
+    brief1="You _can_ put markdown in the briefs section" 
+    brief2="But you __MUST__ hardcode html links <a href= 'www.google.com' > google  </a> for further info."
+    location= "The place we're going it"
+    dates = "15 November 2019"
+    times= "13:00-17:30"  
+    website_name="google"
+    website_url="www.google.com"
 
   # Talk [Portfolio] section
   [params.portfolio]
