@@ -1,11 +1,14 @@
 # Site settings
-baseurl = "https://satrdays-event-template.netlify.com/"
+baseurl = "https://satrdays-event-template.netlify.com/" # Change this to the base url after netlify deploy, e.g. "https://cardiff2019.satrdays.org/"
 languageCode = "en-us"
 title = "satRday"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
+
+# Disable taxonomies that are not used https://discourse.gohugo.io/t/found-no-layout-for-taxonomyterm-language-en-output-format-html/16376
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source) or
