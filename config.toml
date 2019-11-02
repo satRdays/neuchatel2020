@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://eventtemplate.satrdays.org" # Change this to the base url after netlify deploy, e.g. "https://cardiff2019.satrdays.org/"
+baseurl = "https://neuchatel2020.satrdays.org" 
 languageCode = "en-us"
 title = "satRday"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
@@ -20,8 +20,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "satRday [My City]"
-  description = "R conference in [My City]"
+  name = "satRday Neuchâtel"
+  description = "R conference in Neuchâtel"
   # email = "your@email.com"
 
   # Link custom assets relative to /static
@@ -80,8 +80,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "satRday [My City]"
-    subtitle = "A conference for users of the R Language on [Conference Date]"
+    title = "satRday Neuchâtel"
+    subtitle = "A conference for users of the R Language on 14 March 2020"
     bg = true
     buttonText = "Tell me more"
 
@@ -97,7 +97,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "[Conference Date] at [Conference Location]"
+      description = "14 March 2020 at University of Neuchâtel"
       url = "#"
 
     [[params.services.row.list]]
@@ -263,7 +263,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
       img = "faceholder.png"
-      name = "Organiser Name 1"
+      name = "Xavier Adam"
       position = "Organiser Position 1"
       reportsTo = ""
       livesIn = "[Munich, Germany](#some-maps-url)"
@@ -283,7 +283,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     [[params.team.members]]
       img = "faceholder.png"
-      name = "Organiser Name 2"
+      name = "Enrico Chavez"
       position = "Organiser Position 2"
       social = [
         ["fa-twitter", "#"],
@@ -293,7 +293,17 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     [[params.team.members]]
       img = "faceholder.png"
-      name = "Organiser Name 3"
+      name = "Elise Dupuis Lozeron"
+      position = "Organiser Position 3"
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-github", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+    [[params.team.members]]
+      img = "faceholder.png"
+      name = "Sina Rüeger"
       position = "Organiser Position 3"
       social = [
         ["fa-twitter", "#"],
