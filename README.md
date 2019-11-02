@@ -22,36 +22,6 @@ If you want to have a website set up, please request this in the #satrdays-websi
 
 ### Administrator tasks
 
-#### Set the repo as a mirror the main repository
-
-1. Open Git Bash.
-
-2. Create a bare clone of the repository.
-
-  ```
-  git clone --bare https://github.com/satRdays/satRday_site_template
-  ```
-
-3. Make a GitHub Repo named `[cityYEAR]` in all lower case, no spaces
-
-4. Mirror-push to the new repository.
-
-```
-cd satRday_site_template.git
-git push --mirror https://github.com/satRdays/[cityYEAR].git
-```
-
-5. Remove the temporary local repository you created in step 1.
-
-```
-cd ..
-rm -rf satRday_site_template.git
-```
-
-5. Make a GitHub Team and add the conference organisers as members
-
-6. Add the GitHub Team to the repo you made as 'Admin'
-
 #### Netlify
 
 1. Make a new deploy from GitHub in the Satrdays Netlify Team
