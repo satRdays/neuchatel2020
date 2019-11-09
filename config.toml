@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   # information about you and your website.
   name = "satRday Neuchâtel"
   description = "R conference in Neuchâtel"
-  # email = "your@email.com"
+  email = "satrday_neuchatel@gmail.com"
 
   # Link custom assets relative to /static
   custom_css = ["css/satrday.css"]
@@ -132,14 +132,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Register section
   # You only need ONE of these active
-  [params.tito]
-    enable = true
-    title = "Register"
-    bg = true
-    accountevent = "ultimateconf/2013"
-      # Go to https://ti.to/ and find the account (under your user) and event pair string e.g. "cardiff-satrday/2018"
-      # include botht the account and event in a string, seperated by /, with no spaces
-
   [params.eventbrite]
     enable = true
     title = "Register"
@@ -150,15 +142,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       # Take ONLY the numeric string between "eid=" and "&ref=etckt"
       # Supply this string as the value to `eid` above
 
-  [params.tickettailor]
-    enable = true
-    title = "Register"
-    bg = true
-    eventviewid = "162430"
-      # Go to www.tickettailor.com and open your event page
-      # Note the number at the end of the url e.g. https://www.tickettailor.com/event/view/id/162430
-      # Supply the number ONLY in `eventviewid`
-  
   # Call for papers section
   [params.callforpapers]
     enable = true
@@ -166,7 +149,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     bg = false
     CfSpage = "/test3490"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
-    dates = "09 Aug - 21 Sep 2018"
+    dates = "06 Jan - 14 Feb 2020"
   
   # Hackathon section
   [params.hackathon]
@@ -217,34 +200,35 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Replace them with your own.
     [[params.about.events]]
       img = "1.jpg"
-      date = "First Date"
+      date = "30 Nov 2019"
       title = "Initial Announcement"
       description = "We're organising a conference!"
 
     [[params.about.events]]
       img = "2.jpg"
-      date = "Second Date"
-      title = "Early Bird Ticket Sales"
+      date = "6 January 2020"
+      title = "Ticket Sales starts"
       description = "Early round of tickets now available at discount"
 
     [[params.about.events]]
       img = "3.jpg"
-      date = "Third Date"
+      date = "6 January 2020"
       title = "Call For Papers"
       description = "Submissions for speakers are now open!"
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "Fourth Date"
+      date = "14 February 2020"
       title = "Call For Papers Ends"
       description = "Cut off date for speaker submissions"
   
   # Location section
   [params.location]
     enable = true
-    title = "Location title"
+    title = "University of Neuchâtel"
     bg = true
-    iframesrc = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12770.336629178193!2d174.7680403!3d-36.8524341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x868a73f26ed3e621!2sDepartment+of+Statistics%2C+University+of+Auckland!5e0!3m2!1sen!2suk!4v1533231461829"
+    iframesrc = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10885.449977528096!2d6.9387031!3d46.9938549!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xab9ae906aab2077c!2sUniversity%20of%20Neuch%C3%A2tel!5e0!3m2!1sen!2sfi!4v1573285584085!5m2!1sen!2sfi"
+
 
   # Team section
   [params.team]
@@ -262,54 +246,49 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
-      img = "faceholder.png"
+      img = "xavier.jpg"
       name = "Xavier Adam"
-      position = "Organiser Position 1"
-      reportsTo = ""
-      livesIn = "[Munich, Germany](#some-maps-url)"
-      scope = [
-        "Role 1 for [thing 1](#)",
-        "Role 2 for [thing 2](#)",
-        "Role 3 for [thing 3](#)"
-      ]
+      position = "Organiser"
       # For bio markdown and even multiline strings are available.
-      bio = """I do things,
-      and stuff"""
+      bio = """Genève R user group Co-organiser, Course Developer and Instructor at EPFL Extension School."""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/xvrdm"],
+        ["fa-github", "https://github.com/xvrdm"],
+        ["fa-linkedin", "https://www.linkedin.com/in/xavier-adam-75803957/"]
       ]
 
+
     [[params.team.members]]
-      img = "faceholder.png"
+      img = "enrico.png"
       name = "Enrico Chavez"
-      position = "Organiser Position 2"
+      position = "Organiser"
+      bio = """Course Developer & Instructor at EPFL Extension School, Senior Lecturer in Statistics and Probability at University of Geneva."""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-github", "https://github.com/enricochavez"],
+        ["fa-linkedin", "https://www.linkedin.com/in/enrico-chavez-77518311/"]
       ]
 
     [[params.team.members]]
-      img = "faceholder.png"
+      img = "elise.jpg"
       name = "Elise Dupuis Lozeron"
-      position = "Organiser Position 3"
+      position = "Organiser"
+      bio = """Statistician at the Geneva University Hospitals. Regularly teaches statistics using R."""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-linkedin", "https://www.linkedin.com/in/elise-dupuis-lozeron-b49345163/"]
       ]
 
     [[params.team.members]]
-      img = "faceholder.png"
+      img = "sina.jpg"
       name = "Sina Rüeger"
-      position = "Organiser Position 3"
+      position = "Organiser"
+      bio = """Former R-Ladies Lausanne co-organiser and Postdoc at EPFL, now Data Analyst in Helsinki, Finland."""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/sinarueeger"],
+        ["fa-github", "https://github.com/sinarueeger"],
+        ["fa-linkedin", "https://www.linkedin.com/in/sinarueeger/"]
       ]
+
+
 
   # Client section
   [params.clients_list]
@@ -348,7 +327,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.contact]
     enable = true
     title = "Contact us"
-    subtitle  = "Lorem ipsum dolor sit amet consectetur."
+    subtitle  = ""
     buttonText = "Send message"
     # netlify = true
 
@@ -370,11 +349,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # add some custom JS script to finish the implementation.
     # postURL = "https://example.com/mailout/"
 
-    email = "your@email.com"
+    email = "satrday_neuchatel@gmail.com"
 
     # Success and error message overwrite for async contact form
-    #thanks = "Thank you for awesomely contacting us."
-    #error = "Message could not be send. Please contact us at mail@example.com instead."
+    thanks = "Thank you for contacting us. We get back to you soon."
+    error = "Message could not be send. Please contact us at satrday_neuchatel@gmail.com instead."
 
     [params.contact.captcha]
       # sitekey = ""
@@ -387,10 +366,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [params.contact.form.email]
       text = "Your Email *"
       warning = "Please enter your email address."
-
-    [params.contact.form.phone]
-      text = "Your Phone *"
-      warning = "Please enter your phone number."
 
     [params.contact.form.message]
       text = "Your Message *"
