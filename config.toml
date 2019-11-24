@@ -162,7 +162,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     enable = true
     bg = false
     title = "Call for Abstracts"
-    subtitle = "We would ❤️ <i class="fas fa-heart" style="color:#DDDDDD;"></i> to hear about your work!"
+    subtitle = "We would ❤️ to hear about your work!"
     brief1="<p>Keen to be part of the program? We have reserved 2 x 30 Minutes sessions for shorter talks.</p> <p> Here are some ideas:</p>" 
     brief2="<p>If you have never presented at a conference before but would like to give it a shot, drop us an email at <a href=mailto:satrday_neuchatel@gmail.com>satrday_neuchatel@gmail.com</a> - we'd be happy to give you the support you want.</p> <p> Plus: Speakers get their ticket reimbursed! </p> <p> <a href= 'https://neuchatel2020.satrdays.org/' >Submission</a> starts 6 January and ends 14 February 2020.</p>"
 
