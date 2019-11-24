@@ -199,7 +199,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # All images are stored under 'static/img/about'.
     # Replace them with your own.
     [[params.about.events]]
-      img = "1_small.png"
+      img = "1.png"
       date = "1 Dec 2019"
       title = "Initial Announcement"
       description = "We're organising a conference!"
@@ -217,7 +217,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       description = "Submissions for speakers are now open!"
 
     [[params.about.events]]
-      img = "4_small.png"
+      img = "4.png"
       date = "14 February 2020"
       title = "Call For Papers Ends"
       description = "Cut off date for speaker submissions"
