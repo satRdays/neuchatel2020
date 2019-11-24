@@ -121,7 +121,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-money"
       title = "Affordable"
-      description = "Only [£30]"
+      description = "Only 10/20 CHF"
       url = "#"
 
     [[params.services.row.list]]
@@ -201,25 +201,25 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # All images are stored under 'static/img/about'.
     # Replace them with your own.
     [[params.about.events]]
-      img = "1.jpg"
+      img = "1.png"
       date = "1 Dec 2019"
       title = "Initial Announcement"
       description = "We're organising a conference!"
 
     [[params.about.events]]
-      img = "2.jpg"
+      img = "2.png"
       date = "6 January 2020"
       title = "Ticket Sales starts"
       description = "Discount tickets available for students!"
 
     [[params.about.events]]
-      img = "3.jpg"
+      img = "3.png"
       date = "6 January 2020"
       title = "Call For Abstracts"
       description = "Submissions for speakers are now open!"
 
     [[params.about.events]]
-      img = "4.jpg"
+      img = "4.png"
       date = "14 February 2020"
       title = "Call For Papers Ends"
       description = "Cut off date for speaker submissions"
