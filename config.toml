@@ -53,6 +53,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Optional logo as brand stored in img/
     logo = "logo.png"
     services = "About"
+    about = "Dates"
     portfolio = "Talks"
     eventbrite = "Register"
     schedule = "Schedule"
