@@ -121,7 +121,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-money"
       title = "Affordable"
-      description = "Only 10/20 CHF"
+      description = "Only 20 CHF (10 CHF for students)"
       url = "#"
 
     [[params.services.row.list]]
@@ -153,17 +153,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   
   # Hackathon section
   [params.hackathon]
-    enable = false
+    enable = true
     bg = false
-    title = "Hackathon"
-    subtitle="Can you _Hack_ it?"
-    brief1="You _can_ put markdown in the briefs section" 
-    brief2="But you __MUST__ hardcode html links <a href= 'www.google.com' > google  </a> for further info."
-    location= "The place we're going it"
-    dates = "15 November 2019"
-    times= "13:00-17:30"  
-    website_name="google"
-    website_url="www.google.com"
+    title = "Call for Abstracts"
+    subtitle = "Do you want to present your work at the conference?"
+    brief1="We would love to hear about your work and have reserved 2 x 30 Minutes sessions for shorter talks." 
+    brief2="Here are some ideas: "
+    brief3="If you have never presented at a conference before but would like to give it a shot, drop us an email - we'd be happy to give you the support you want."
+    brief4="Speakers get their ticket reimbursed!"
+    dates = "<a href= 'https://neuchatel2020.satrdays.org/' >Submission</a> starts 6 January and ends 14 February 2020"
+
 
   # Talk [Portfolio] section
   [params.portfolio]
