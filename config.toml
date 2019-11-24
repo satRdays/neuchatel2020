@@ -195,6 +195,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     subtitle = "Be prepared!"
     endpoint = "Conference"
     date = "14 March 2020"
+    img = "1.png"
 
 
     # The events will be listed from the top to the bottom.
