@@ -54,6 +54,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     logo = "logo.png"
     services = "About"
     about = "Dates"
+    hackathon = "Get involved"
     portfolio = "Talks"
     eventbrite = "Register"
     schedule = "Schedule"
@@ -65,16 +66,26 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # below and replace the values with your own.
 
     # prepended links
-    [[menu.prepend]]
+   # [[menu.prepend]]
+  #    url = "https://neuchatel2020.satrdays.org/#hackathon"
+  #    name = "Get involved"
+  #    weight = 10
+
+    [[menu.postpend]]
+      url = "https://neuchatel2020.satrdays.org/#about"
+      name = "Dates"
+      weight = 10
+      
+      [[menu.postpend]]
       url = "https://neuchatel2020.satrdays.org/#hackathon"
       name = "Get involved"
-      weight = 10
-
+      weight = 20
+      
     # postpended links
     [[menu.postpend]]
       url = "http://satrdays.org/"
       name = "satRdays.org"
-      weight = 10
+      weight = 30
 
 
   # Hero section
