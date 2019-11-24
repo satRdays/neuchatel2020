@@ -57,17 +57,17 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     eventbrite = "Register"
     schedule = "Schedule"
     team = "People"
-    contact = "Get involved"
+    contact = "Contact us"
 
     # Add custom links. Those can be pre- and postpended to the default menu above.
     # Use the weight attribute to order your custom links. Uncomment the example
     # below and replace the values with your own.
 
     # prepended links
-    #[[menu.prepend]]
-    #  url = "http://gohugo.io"
-    #  name = "Hugo"
-    #  weight = 10
+    [[menu.prepend]]
+      url = "https://neuchatel2020.satrdays.org/#hackathon"
+      name = "Get involved"
+      weight = 10
 
     # postpended links
     [[menu.postpend]]
@@ -144,16 +144,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Call for papers section
   [params.callforpapers]
-    enable = true
-    title = "Call For Abstracts"
+    enable = false
+    title = "Call For Papers"
     bg = false
     CfSpage = "/test3490"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
     dates = "06 Jan - 14 Feb 2020"
-    subtitle = "We'd love to hear about your work!"
-    brief1="<p>Keen to be part of the program? We have reserved 2 x 30 Minutes sessions for shorter talks.</p> <p> Here are some ideas:</p>" 
-    brief2="<p>If you have never presented at a conference before but would like to give it a shot, drop us an email at satrday_neuchatel@gmail.com - we'd be happy to give you the support you want.</p> <p> Plus: Speakers get their ticket reimbursed! </p> <p> <a href= 'https://neuchatel2020.satrdays.org/' >Submission</a> starts 6 January and ends 14 February 2020.</p>"
-
   
   # Hackathon section
   [params.hackathon]
