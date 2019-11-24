@@ -158,7 +158,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     title = "Call for Abstracts"
     subtitle = "We'd love to hear about your work!"
     brief1="<p>Keen to be part of the program? We have reserved 2 x 30 Minutes sessions for shorter talks.</p> <p> Here are some ideas:</p>" 
-    brief2="<p>If you have never presented at a conference before but would like to give it a shot, drop us an email - we'd be happy to give you the support you want.</p> <p> Plus: Speakers get their ticket reimbursed! </p> <p> <a href= 'https://neuchatel2020.satrdays.org/' >Submission</a> starts 6 January and ends 14 February 2020.</p>"
+    brief2="<p>If you have never presented at a conference before but would like to give it a shot, drop us an email at satrday_neuchatel@gmail.com - we'd be happy to give you the support you want.</p> <p> Plus: Speakers get their ticket reimbursed! </p> <p> <a href= 'https://neuchatel2020.satrdays.org/' >Submission</a> starts 6 January and ends 14 February 2020.</p>"
 
 
 
@@ -205,7 +205,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       description = "We're organising a conference!"
 
     [[params.about.events]]
-      img = "2.png"
+      icon = "fa-users"
       date = "6 January 2020"
       title = "Ticket Sales starts"
       description = "Discount tickets available for students!"
