@@ -205,7 +205,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       description = "We're organising a conference!"
 
     [[params.about.events]]
-      icon = "fa-users"
+      img = "2.png"
       date = "6 January 2020"
       title = "Ticket Sales starts"
       description = "Discount tickets available for students!"
