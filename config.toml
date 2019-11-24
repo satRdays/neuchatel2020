@@ -71,21 +71,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   #    name = "Get involved"
   #    weight = 10
 
-    [[menu.postpend]]
-      url = "https://neuchatel2020.satrdays.org/#about"
-      name = "Dates"
-      weight = 10
-      
       [[menu.postpend]]
       url = "https://neuchatel2020.satrdays.org/#hackathon"
       name = "Get involved"
-      weight = 20
+      weight = 10
       
     # postpended links
     [[menu.postpend]]
       url = "http://satrdays.org/"
       name = "satRdays.org"
-      weight = 30
+      weight = 20
 
 
   # Hero section
