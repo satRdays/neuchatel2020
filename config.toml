@@ -133,7 +133,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   # Register section
   # You only need ONE of these active
   [params.eventbrite]
-    enable = true
+    enable = false
     title = "Register"
     bg = true
     eid = "32416000129" 
@@ -144,7 +144,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Call for papers section
   [params.callforpapers]
-    enable = true
+    enable = false
     title = "Call For Papers"
     bg = false
     CfSpage = "/test3490"
@@ -153,7 +153,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   
   # Hackathon section
   [params.hackathon]
-    enable = true
+    enable = false
     bg = false
     title = "Hackathon"
     subtitle="Can you _Hack_ it?"
@@ -167,7 +167,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Talk [Portfolio] section
   [params.portfolio]
-    enable = true
+    enable = false
     # All projects defined in their own files. You can find example projects
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
@@ -184,7 +184,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Schedule section
   [params.schedule]
-    enable = true
+    enable = false
     title = "Schedule"
     bg = false
 
@@ -194,13 +194,15 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     title = "Important Dates"
     subtitle = "Be prepared!"
     endpoint = "Conference"
+    date = "14 March 2020"
+
 
     # The events will be listed from the top to the bottom.
     # All images are stored under 'static/img/about'.
     # Replace them with your own.
     [[params.about.events]]
       img = "1.jpg"
-      date = "30 Nov 2019"
+      date = "1 Dec 2019"
       title = "Initial Announcement"
       description = "We're organising a conference!"
 
@@ -208,12 +210,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       img = "2.jpg"
       date = "6 January 2020"
       title = "Ticket Sales starts"
-      description = "Early round of tickets now available at discount"
+      description = "Discount tickets available for students!"
 
     [[params.about.events]]
       img = "3.jpg"
       date = "6 January 2020"
-      title = "Call For Papers"
+      title = "Call For Abstracts"
       description = "Submissions for speakers are now open!"
 
     [[params.about.events]]
@@ -292,7 +294,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Client section
   [params.clients_list]
-    enable = true
+    enable = false
     # Possibility to center items
     #center = true
     # Optional client title specifying the involvement
