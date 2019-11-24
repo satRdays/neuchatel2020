@@ -57,7 +57,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     eventbrite = "Register"
     schedule = "Schedule"
     team = "People"
-    contact = "Get involved"
+    hackathon = "Get involved"
 
     # Add custom links. Those can be pre- and postpended to the default menu above.
     # Use the weight attribute to order your custom links. Uncomment the example
