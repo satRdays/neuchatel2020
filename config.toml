@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   # information about you and your website.
   name = "satRday Neuchâtel"
   description = "R conference in Neuchâtel"
-  email = "satrday_neuchatel@gmail.com"
+  email = "satrday.neuchatel@gmail.com"
 
   # Link custom assets relative to /static
   custom_css = ["css/satrday.css"]
@@ -382,7 +382,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     [[params.footer.social]]
       icon = "fa-twitter"
-      link = "https://twitter.com/SatrdayN"
+      link = "https://twitter.com/satRdayNeuCH"
       title = "Twitter"
 
     [[params.footer.social]]
