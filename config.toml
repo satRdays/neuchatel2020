@@ -382,7 +382,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     [[params.footer.social]]
       icon = "fa-twitter"
-      link = "https://twitter.com/satrdays_neuchatel"
+      link = "https://twitter.com/SatrdayN"
       title = "Twitter"
 
     [[params.footer.social]]
