@@ -155,7 +155,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     bg = false
     CfSpage = "/test3490"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
-    dates = "06 Jan - 14 Feb 2020"
+    dates = "TBA (Mid Jan - Mid Feb 2020)"
   
   # Hackathon section
   [params.hackathon]
@@ -204,35 +204,34 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Replace them with your own.
     [[params.about.events]]
       img = "1.png"
-      date = "1 Dec 2019"
+      date = "December 2019"
       title = "Initial Announcement"
       description = "We're organising a conference!"
 
     [[params.about.events]]
       img = "2.png"
-      date = "6 January 2020"
+      date = "January 2020"
       title = "Ticket Sales starts"
       description = "Discount tickets available for students!"
 
     [[params.about.events]]
       img = "3.png"
-      date = "6 January 2020"
+      date = "TBA (~ mid January 2020)"
       title = "Call For Abstracts"
       description = "Submissions for speakers are now open!"
 
     [[params.about.events]]
       img = "4.png"
-      date = "14 February 2020"
+      date = "TBA (~ mid February 2020)"
       title = "Call For Papers Ends"
       description = "Cut off date for speaker submissions"
   
   # Location section
   [params.location]
     enable = true
-    title = "University of Neuchâtel"
+    title = "Auditoire Louis-Guillaume, University of Neuchâtel"
     bg = true
-    iframesrc = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10885.449977528096!2d6.9387031!3d46.9938549!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xab9ae906aab2077c!2sUniversity%20of%20Neuch%C3%A2tel!5e0!3m2!1sen!2sfi!4v1573285584085!5m2!1sen!2sfi"
-
+    iframesrc = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2721.0457939830717!2d6.947079915609543!3d47.000073779149055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478e0a265f006377%3A0x3a1737b19525ad43!2sChemin%20de%20Chantemerle%2020%2C%202000%20Neuch%C3%A2tel%2C%20Switzerland!5e0!3m2!1sen!2sfi!4v1575103924669!5m2!1sen!2sfi"
 
   # Team section
   [params.team]
@@ -296,7 +295,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Client section
   [params.clients_list]
-    enable = false
+    enable = true
     # Possibility to center items
     #center = true
     # Optional client title specifying the involvement
@@ -307,20 +306,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Replace them with your clients's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
     [[params.clients]]
-      logo = "envato.jpg"
-      link = "#"
+      logo = "500px-Logo_Université_de_Neuchâtel.svg.png"
+      link = "https://www.unine.ch/"
 
-    [[params.clients]]
-      logo = "designmodo.jpg"
-      link = "#"
 
-    [[params.clients]]
-      logo = "themeforest.jpg"
-      link = "#"
 
-    [[params.clients]]
-      logo = "creative-market.jpg"
-      link = "#"
   
   [params.diversity]
     enable = true

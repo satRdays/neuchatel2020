@@ -1,10 +1,10 @@
-img = "faceholder.png"
-name = "Speaker Name 01"
-organisation = "Company 1"
-role = "Role 1"
+img = "kirill2.jpg"
+name = "Kirill Müller"
+organisation = "cynkra"
+role = ""
 social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"],
-        ["fa-globe", "#"]
+        ["fa-twitter", "https://twitter.com/krlmlr"],
+        ["fa-github", "https://github.com/krlmlr"],
+        ["fa-linkedin", "https://www.linkedin.com/in/kirill-m%C3%BCller/"],
+        ["fa-globe", "https://www.cynkra.com/about.html"]
       ]
