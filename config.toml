@@ -155,7 +155,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     bg = false
     CfSpage = "/test3490"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
-    dates = "TBA (Mid Jan - Mid Feb 2020)"
+    dates = "Mid Jan - Mid Feb 2020 (TBA)"
   
   # Hackathon section
   [params.hackathon]
@@ -216,13 +216,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     [[params.about.events]]
       img = "3.png"
-      date = "TBA (~ mid January 2020)"
+      date = "Mid January 2020"
       title = "Call For Abstracts"
       description = "Submissions for speakers are now open!"
 
     [[params.about.events]]
       img = "4.png"
-      date = "TBA (~ mid February 2020)"
+      date = "Mid February 2020"
       title = "Call For Papers Ends"
       description = "Cut off date for speaker submissions"
   
