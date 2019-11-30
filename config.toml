@@ -162,7 +162,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     enable = true
     bg = false
     title = "Call for Abstracts"
-    subtitle = "We would ❤️ to hear about your work!"
+    subtitle = "We would love to hear about your work!"
     brief1="<p>Keen to be part of the program? We have reserved 2 x 30 Minutes sessions for shorter talks.</p> <p> Here are some ideas:</p>" 
     brief2="<p>If you have never presented at a conference before but would like to give it a shot, drop us an email at <a href=mailto:satrday_neuchatel@gmail.com>satrday_neuchatel@gmail.com</a> - we'd be happy to give you the support you want.</p> <p> Plus: Speakers get their ticket reimbursed! </p> <p> <a href= 'https://neuchatel2020.satrdays.org/' >Submission</a> starts 6 January and ends 14 February 2020.</p>"
 
@@ -230,6 +230,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.location]
     enable = true
     title = "Auditoire Louis-Guillaume, University of Neuchâtel"
+    subtitle = "Auditoire Louis-Guillaume, 2ème étage (ALG) F200 116, Bâtiment Unimail (Accès par l’entrée nord)"
     bg = true
     iframesrc = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2721.0457939830717!2d6.947079915609543!3d47.000073779149055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478e0a265f006377%3A0x3a1737b19525ad43!2sChemin%20de%20Chantemerle%2020%2C%202000%20Neuch%C3%A2tel%2C%20Switzerland!5e0!3m2!1sen!2sfi!4v1575103924669!5m2!1sen!2sfi"
 
