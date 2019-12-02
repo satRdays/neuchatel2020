@@ -307,7 +307,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Replace them with your clients's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
     [[params.clients]]
-      logo = "500px-Logo_Université_de_Neuchâtel.svg.png"
+      logo = "UniNE_pos_c.jpg"
       link = "https://www.unine.ch/"
 
 

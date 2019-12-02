@@ -1,7 +1,0 @@
-img = "faceholder.png"
-name = "Speaker Name 02"
-organisation = "Company 2"
-role = "Role 1"
-social = [
-        ["fa-twitter", "#"],
-      ]
