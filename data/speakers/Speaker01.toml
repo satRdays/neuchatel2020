@@ -1,7 +1,8 @@
 img = "kirill2.jpg"
 name = "Kirill Müller"
 organisation = "cynkra"
-role = "Kirill works on the boundary between data and computer science with more than 20 years of software engineering experience. He enjoys working with and contributing to the R ecosystem since 2012."
+role = ""
+bio = """Kirill works on the boundary between data and computer science with more than 20 years of software engineering experience. He enjoys working with and contributing to the R ecosystem since 2012."""
 social = [
         ["fa-twitter", "https://twitter.com/krlmlr"],
         ["fa-github", "https://github.com/krlmlr"],
