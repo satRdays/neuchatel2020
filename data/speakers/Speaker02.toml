@@ -1,0 +1,10 @@
+img = "mark_padgham.jpg"
+name = "Mark Padgham"
+organisation = "Software Research Scientist"
+role = ""
+bio = """ """
+social = [
+        ["fa-twitter", "https://twitter.com/bikesRdata"],
+        ["fa-github", "https://github.com/mpadge"],
+        ["fa-globe", "https://mpadge.github.io"]
+      ]
