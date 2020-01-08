@@ -1,0 +1,11 @@
+img = "abt_benjamin.jpg"
+name = "Benjamin Abt"
+organisation = "PartnerRe"
+role = "Data Scientist, Analytics and Technology"
+bio = """Data Scientist at PartnerRe with an actuarial background. Develops R based tools for insurance and provide R-trainings within the company."""
+social = [
+        ["fa-twitter", "https://twitter.com/PartnerReNews"],
+        ["fa-linkedin", "https://www.linkedin.com/in/benjamin-abt-79a66844/"],
+        ["fa-globe", "https://partnerre.com/"]
+      ]
+
