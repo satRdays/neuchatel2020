@@ -1,7 +1,7 @@
 img = "mark_padgham.jpg"
 name = "Mark Padgham"
-organisation = "Software Research Scientist"
-role = ""
+organisation = "rOpenSci"
+role = "Software Research Scientist"
 bio = """ """
 social = [
         ["fa-twitter", "https://twitter.com/bikesRdata"],
