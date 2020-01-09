@@ -2,7 +2,7 @@ img = "mark_padgham.jpg"
 name = "Mark Padgham"
 organisation = "rOpenSci"
 role = "Software Research Scientist"
-bio = """ """
+bio = """Mark recently joined rOpenSci as a Software Research Scientist, and also develops software for the World Health Organization to plan for encourage more sustainable and active transport."""
 social = [
         ["fa-twitter", "https://twitter.com/bikesRdata"],
         ["fa-github", "https://github.com/mpadge"],
