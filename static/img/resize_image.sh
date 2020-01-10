@@ -1,0 +1,6 @@
+#!/bin/bash
+
+INPUTFILE=$1
+OUTPUTFILE=$2
+
+convert $INPUTFILE -resize 400x400 $OUTPUTFILE
