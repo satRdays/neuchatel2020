@@ -1,0 +1,9 @@
+img = "stella_bollmann.jpg"
+name = "Stella Bollmann"
+organisation = ""
+role = "Postdoctoral Researcher & President of Swiss Statistical Society"
+bio = """"""
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/stella-bollmann-46a815186"]
+      ]
+

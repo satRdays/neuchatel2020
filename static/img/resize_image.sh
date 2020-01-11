@@ -1,5 +1,8 @@
 #!/bin/bash
 
+## Usage
+## ./resize_image.sh team/eric_roethlisberger.jpg team/eric_roethlisberger_400_400.jpg
+
 INPUTFILE=$1
 OUTPUTFILE=$2
 
