@@ -4,6 +4,7 @@ organisation = ""
 role = "Postdoctoral Researcher & President of Swiss Statistical Society"
 bio = """"""
 social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/stella-bollmann-46a815186"]
+        ["fa-linkedin", "https://www.linkedin.com/in/stella-bollmann-46a815186"],
+	["fa-twitter", "https://twitter.com/stellasobo"]
       ]
 
