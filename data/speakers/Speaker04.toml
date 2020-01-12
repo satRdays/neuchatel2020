@@ -1,10 +1,10 @@
-img = "stella_bollmann_400_400.jpg"
-name = "Stella Bollmann"
-organisation = ""
-role = "Postdoctoral Researcher & President of Swiss Statistical Society"
-bio = """"""
+img = "mark_padgham.jpg"
+name = "Mark Padgham"
+organisation = "rOpenSci"
+role = "Software Research Scientist"
+bio = """Mark recently joined rOpenSci as a Software Research Scientist, and also develops software for the World Health Organization to plan for encourage more sustainable and active transport."""
 social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/stella-bollmann-46a815186"],
-	["fa-twitter", "https://twitter.com/stellasobo"]
+        ["fa-twitter", "https://twitter.com/bikesRdata"],
+        ["fa-github", "https://github.com/mpadge"],
+        ["fa-globe", "https://mpadge.github.io"]
       ]
-

@@ -1,11 +1,11 @@
-img = "kirill2.jpg"
-name = "Kirill Müller"
-organisation = "cynkra"
-role = ""
-bio = """Kirill has worked on the boundary between data and computer science with more than 20 years of software engineering experience. He has enjoyed working with and contributing to the R ecosystem since 2012."""
+img = "abt_benjamin_400_400.jpg"
+name = "Benjamin Abt"
+organisation = "PartnerRe"
+role = "Data Scientist, Analytics and Technology"
+bio = """Data Scientist at PartnerRe with an actuarial background. Develops R based tools for insurance and provide R-trainings within the company."""
 social = [
-        ["fa-twitter", "https://twitter.com/krlmlr"],
-        ["fa-github", "https://github.com/krlmlr"],
-        ["fa-linkedin", "https://www.linkedin.com/in/kirill-m%C3%BCller/"],
-        ["fa-globe", "https://www.cynkra.com/about.html"]
+        ["fa-twitter", "https://twitter.com/PartnerReNews"],
+        ["fa-linkedin", "https://www.linkedin.com/in/benjamin-abt-79a66844/"],
+        ["fa-globe", "https://partnerre.com/"]
       ]
+

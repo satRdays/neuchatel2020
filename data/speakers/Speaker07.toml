@@ -2,7 +2,7 @@ img = "natasa_tagasovska.jpg"
 name = "Natasa Tagasovska"
 organisation = "University of Lausanne"
 role = "PhD student"
-bio = """Natasa is a computer scientist by training and is just finishing a PhD at HEC Lausanne. Her main research interest is deeper understanding of learning models, hence works focus on causal inference, generative models, uncertainty and interpretability."""
+bio = """Natasa is a computer scientist by training and is currently finishing her PhD at HEC Lausanne. Her main research interest is a deeper understanding of learning models, hence works focuses on causal inference, generative models, uncertainty and interpretability."""
 social = [
         ["fa-linkedin", "https://www.linkedin.com/in/natasha-tagasovska/"]
       ]
