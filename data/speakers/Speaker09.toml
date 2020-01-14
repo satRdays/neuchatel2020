@@ -1,0 +1,14 @@
+img = "duc_quang_nguyen.jpg"
+name = "Duc-Quang Nguyen"
+organisation = "Tamedia Romandie"
+role = "Data Scientist"
+bio = """Data Scientist at Tamedia Romandie (Tribune de Genève, 24 heures, le Matin Dimanche). Previously: data journalist at SRG-SSR for swissinfo.ch, quantitative analyst for a hedge fund and computational biologist."""
+social = [
+        ["fa-github", "https://github.com/d-qn"],
+        ["fa-twitter", "https://twitter.com/duc_qn"],
+        ["fa-linkedin", "https://www.linkedin.com/in/dr-duc-quang-nguyen-77851715/"], 
+      ]
+
+
+ 
+ 

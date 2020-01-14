@@ -1,0 +1,15 @@
+img = "david_granjon.jpg"
+name = "David Granjon"
+organisation = "Novartis"
+role = "Principal Scientific Computing and Consulting"
+bio = """At Novartis, David provides support to develop production Shiny apps, HTML templates and train other associates in package development. David also contributes to the R Shiny ecosystem through its open source project, namely [RinteRface](https://rinterface.com), [bs4Dash](https://github.com/RinteRface/bs4Dash) (Bootstrap 4 shinydashboard), [shinyMobile](https://rinterface.github.io/shinyMobile/), the [virtual physiology simulator](https://github.com/DivadNojnarg/CaPO4Sim)."""
+social = [
+        ["fa-github", "https://github.com/DivadNojnarg"],
+        ["fa-twitter", "https://twitter.com/divadnojnarg"],
+        ["fa-linkedin", "https://www.linkedin.com/in/david-granjon-88625968/"], 
+
+      ]
+
+
+ 
+ 
