@@ -310,7 +310,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       logo = "UniNE_pos_c.jpg"
       link = "https://www.unine.ch/"
 
-
+    # All the clients' logos are stored under 'static/img/logos'.
+    # Replace them with your clients's logos.
+    # Suggestion: .svg in the size of 280px*80px looks good
+    [[params.clients]]
+      logo = "partnerre.jpg"
+      link = "https://partnerre.com/"
 
   
   [params.diversity]
