@@ -281,15 +281,22 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         ["fa-linkedin", "https://www.linkedin.com/in/elise-dupuis-lozeron-b49345163/"]
       ]
 
-    [[params.team.members]]
-      img = "sina.jpg"
-      name = "Sina Rüeger"
+   [[params.team.members]]
+      img = "elise.jpg"
+      name = "Elise Dupuis Lozeron"
       position = "Organiser"
-      bio = """Former R-Ladies Lausanne co-organiser and Postdoc at EPFL, now Data Analyst in Helsinki, Finland."""
+      bio = """Statistician at the Geneva University Hospitals. Regularly teaches statistics using R."""
       social = [
-        ["fa-twitter", "https://twitter.com/sinarueeger"],
-        ["fa-github", "https://github.com/sinarueeger"],
-        ["fa-linkedin", "https://www.linkedin.com/in/sinarueeger/"]
+        ["fa-linkedin", "https://www.linkedin.com/in/elise-dupuis-lozeron-b49345163/"]
+      ]
+
+    [[params.team.members]]
+      img = "delphine.jpg"
+      name = "Delphine Fontaine"
+      position = "Organiser"
+      bio = """Delphine Fontaine has a double education in psychology and statistics and is working at Les transports publics de la région lausannoise."""
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/delphine-fontaine-78aa04/"]
       ]
 
 
