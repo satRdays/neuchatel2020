@@ -296,7 +296,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       img = "sina.jpg"
       name = "Sina Rüeger"
       position = "Organiser"
-      bio = """Former R-Ladies Lausanne co-organiser and Postdoc at EPFL, now Data Analyst in Helsinki, Finland."""
+      bio = """Former R-Ladies Lausanne co-organiser and Postdoc at EPFL, now Data Scientist in Helsinki, Finland."""
       social = [
         ["fa-twitter", "https://twitter.com/sinarueeger"],
         ["fa-github", "https://github.com/sinarueeger"],
