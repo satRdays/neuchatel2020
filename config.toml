@@ -281,14 +281,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         ["fa-linkedin", "https://www.linkedin.com/in/elise-dupuis-lozeron-b49345163/"]
       ]
 
-   [[params.team.members]]
-      img = "elise.jpg"
-      name = "Elise Dupuis Lozeron"
-      position = "Organiser"
-      bio = """Statistician at the Geneva University Hospitals. Regularly teaches statistics using R."""
-      social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/elise-dupuis-lozeron-b49345163/"]
-      ]
+
 
     [[params.team.members]]
       img = "delphine.jpg"
@@ -299,7 +292,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         ["fa-linkedin", "https://www.linkedin.com/in/delphine-fontaine-78aa04/"]
       ]
 
-
+    [[params.team.members]]
+      img = "sina.jpg"
+      name = "Sina Rüeger"
+      position = "Organiser"
+      bio = """Former R-Ladies Lausanne co-organiser and Postdoc at EPFL, now Data Analyst in Helsinki, Finland."""
+      social = [
+        ["fa-twitter", "https://twitter.com/sinarueeger"],
+        ["fa-github", "https://github.com/sinarueeger"],
+        ["fa-linkedin", "https://www.linkedin.com/in/sinarueeger/"]
+      ]
 
   # Client section
   [params.clients_list]
