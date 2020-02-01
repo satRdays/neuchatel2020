@@ -1,0 +1,9 @@
+img = "jonas_pipoz.jpg"
+name = "Jonas Pipoz"
+organisation = "Statistical Office of the Canton of Neuchâtel"
+role = "Project manager"
+bio = """Economist and project manager at the Neuchâtel Statistical Office with about 15 years of programming experience."""
+social = [
+        ["fa-linkedin", "https://ch.linkedin.com/in/jonas-pipoz-6b92729a"]
+      ]
+

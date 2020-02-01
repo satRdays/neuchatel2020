@@ -1,0 +1,15 @@
+img = "eric_roethlisberger_400_400.jpg"
+name = "Eric Röthlisberger"
+organisation = "Statistical Office of the Canton of Neuchâtel"
+role = "Project manager"
+bio = """Eric works on education data flows. He appreciates collaborating with IT team at the start of the flow and with pedagogues for the construction of indicators.
+Current interest: sequence analysis to understand life courses.
+He has been working with R, SAS and Tableau for several years."""
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/eric-roethlisberger-324a7811/"],
+        ["fa-globe", "www.ne.ch/stateduc"]
+      ]
+
+
+ 
+ 
