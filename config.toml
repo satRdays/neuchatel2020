@@ -334,7 +334,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       link = "https://www.stat.ch/en/"
   
     [[params.clients]]
-      logo = "a+_logo_SCNAT_MULTI_RGB"
+      logo = "a+_logo_SCNAT_MULTI_RGB.png"
       link = "https://naturalsciences.ch/"
   
 
