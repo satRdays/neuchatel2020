@@ -155,7 +155,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     bg = false
     CfSpage = "/test3490"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
-    dates = "Mid Jan - Mid Feb 2020 (TBA)"
+    dates = "Feb 2020 (TBA)"
   
   # Hackathon section
   [params.hackathon]
@@ -164,7 +164,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     title = "Call for Abstracts"
     subtitle = "We would love to hear about your work!"
     brief1="<p>Keen to be part of the program? We have reserved 2 x 30 Minutes sessions for shorter talks.</p>" 
-    brief2="<p>If you have never presented at a conference before but would like to give it a shot, drop us an email at <a href=mailto:satrday.neuchatel@gmail.com>satrday.neuchatel@gmail.com</a> - we'd be happy to support you.</p> <p> Plus: Speakers get their ticket reimbursed! </p> <p> <a href= 'https://neuchatel2020.satrdays.org/' >Submission</a> starts mid January 2020.</p>"
+    
 
   # Talk [Portfolio] section
   [params.portfolio]
@@ -216,7 +216,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     [[params.about.events]]
       img = "3.png"
-      date = "Mid January 2020"
+      date = "Feb 2020"
       title = "Call For Abstracts"
       description = "Submissions for speakers are now open!"
 
@@ -323,13 +323,22 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       logo = "partnerre.jpg"
       link = "https://partnerre.com/"
 
+
+    [[params.clients]]
+      logo = "HEC_unilogo_bleu_300dpi.jpg"
+      link = "https://www.unil.ch/hec/en/home.html"
+
+
     [[params.clients]]
       logo = "Logo-sss_farbig.jpg"
       link = "https://www.stat.ch/en/"
   
     [[params.clients]]
-      logo = "HEC_unilogo_bleu_300dpi.jpg"
-      link = "https://www.unil.ch/hec/en/home.html"
+      logo = "a+_logo_SCNAT_MULTI_RGB"
+      link = "https://naturalsciences.ch/"
+  
+
+
 
   [params.diversity]
     enable = true
