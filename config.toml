@@ -136,17 +136,15 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       description = "Inclusive, supportive and respectful environment"
       url = "#"
 
-  # Register section
+ # Register section
   # You only need ONE of these active
-  [params.eventbrite]
-    enable = false
+  [params.tito]
+    enable = true
     title = "Register"
     bg = true
-    eid = "32416000129" 
-      # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB 
-      # Follow instructions to discover your 'Website Integration' embeddable iframe
-      # Take ONLY the numeric string between "eid=" and "&ref=etckt"
-      # Supply this string as the value to `eid` above
+    accountevent = "satrday-neuchatel/2020"
+      # Go to https://ti.to/ and find the account (under your user) and event pair string e.g. "cardiff-satrday/2018"
+      # include botht the account and event in a string, seperated by /, with no spaces
 
   # Call for papers section
   [params.callforpapers]
