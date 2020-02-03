@@ -162,7 +162,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     title = "Call for Abstracts"
     subtitle = "We would love to hear about your work!"
     brief1="<p>Keen to be part of the program? We have reserved 2 x 30 Minutes sessions for shorter talks. </p>" 
-
+brief2="<p>Submit your abstract through <a href="https://forms.gle/1trofAy7Gaz8KeHq8">this form</a></p>" 
    
 
   # Talk [Portfolio] section
