@@ -142,14 +142,14 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     enable = true
     title = "Register"
     bg = true
-    accountevent = "satrday-neuchatel/satrday-neuchatel-2020-edition"
+    accountevent = "satrday-neuchatel/2020"
       # Go to https://ti.to/ and find the account (under your user) and event pair string e.g. "cardiff-satrday/2018"
       # include botht the account and event in a string, seperated by /, with no spaces
 
   # Call for papers section
   [params.callforpapers]
     enable = false
-    title = "Call For Papers"
+    title = "Call For Abstracts"
     bg = false
     CfSpage = "/test3490"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
@@ -214,14 +214,14 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     [[params.about.events]]
       img = "3.png"
-      date = "Feb 2020"
+      date = "4 Feb 2020"
       title = "Call For Abstracts"
       description = "Submissions for speakers are now open!"
 
     [[params.about.events]]
       img = "4.png"
-      date = "Mid February 2020"
-      title = "Call For Papers Ends"
+      date = "20 February 2020"
+      title = "Call For Abstracts Ends"
       description = "Cut off date for speaker submissions"
   
   # Location section
