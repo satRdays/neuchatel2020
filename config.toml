@@ -290,6 +290,22 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         ["fa-linkedin", "https://www.linkedin.com/in/delphine-fontaine-78aa04/"]
       ]
 
+
+
+
+    [[params.team.members]]
+      img = "arben.png"
+      name = "Arben Kqiku"
+      position = "Organiser"
+      bio = """Data analyst & digital marketing manager at comtogether. Arben uses R to answer complex business questions, automate repetitive tasks & develop marketing optimisation tools."""
+      social = [
+        ["fa-globe", "https://arbenkqiku.github.io/"],
+        ["fa-github", "https://github.com/ArbenKqiku"],
+        ["fa-linkedin", "https://www.linkedin.com/in/arben-kqiku-301457117/"]
+      ]
+
+
+
     [[params.team.members]]
       img = "sina.jpg"
       name = "Sina Rüeger"
