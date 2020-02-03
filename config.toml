@@ -295,7 +295,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 
     [[params.team.members]]
-      img = "arben_400_400.png"
+      img = "arben.png"
       name = "Arben Kqiku"
       position = "Organiser"
       bio = """Data analyst & digital marketing manager at comtogether. Arben uses R to answer complex business questions, automate repetitive tasks & develop marketing optimisation tools."""
