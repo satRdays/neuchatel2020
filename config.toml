@@ -142,7 +142,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     enable = true
     title = "Register"
     bg = true
-    accountevent = "satrday-neuchatel/2020"
+    accountevent = "satrday-neuchatel/satrday-neuchatel-2020"
       # Go to https://ti.to/ and find the account (under your user) and event pair string e.g. "cardiff-satrday/2018"
       # include botht the account and event in a string, seperated by /, with no spaces
 
