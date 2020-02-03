@@ -161,8 +161,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     bg = false
     title = "Call for Abstracts"
     subtitle = "We would love to hear about your work!"
-    brief1="<p>Keen to be part of the program? We have reserved 2 x 30 Minutes sessions for shorter talks. .</p>" 
-    
+    brief1="<p>Keen to be part of the program? We have reserved 2 x 30 Minutes sessions for shorter talks. </p>" 
+
+   
 
   # Talk [Portfolio] section
   [params.portfolio]
@@ -294,7 +295,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 
     [[params.team.members]]
-      img = "arben.png"
+      img = "arben_400_400.png"
       name = "Arben Kqiku"
       position = "Organiser"
       bio = """Data analyst & digital marketing manager at comtogether. Arben uses R to answer complex business questions, automate repetitive tasks & develop marketing optimisation tools."""
