@@ -1,10 +1,11 @@
-img = "stella_bollmann_400_400.jpg"
+img = "bollmann.png"
 name = "Stella Bollmann"
-organisation = ""
-role = "Postdoctoral Researcher & President of Swiss Statistical Society"
-bio = """"""
+organisation = "University Lucerne / PH Lucerne / Swiss Statistical Society"
+role = "Postdoctoral Researcher at University Lucerne, Statistical Consultant at PH Lucerne & President of Swiss Statistical Society"
+bio = """
+Stella has a background in Psychology and Statistics and has been working in Academia for many years now as Data Scientist, statistical consulting and lecturer. She has a broad insight into the usage of R in different fields as Statistics, Psychology, Education and Health Care.
+"""
 social = [
         ["fa-linkedin", "https://www.linkedin.com/in/stella-bollmann-46a815186"],
 	["fa-twitter", "https://twitter.com/stellasobo"]
       ]
-
