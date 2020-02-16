@@ -65,20 +65,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # below and replace the values with your own.
 
     # prepended links
-    [[menu.prepend]]
-      url = "https://neuchatel2020.satrdays.org/#tito"
-      name = "Register"
-      weight = 10
 
     [[menu.prepend]]
       url = "https://neuchatel2020.satrdays.org/#hackathon"
       name = "Get involved"
-      weight = 20
+      weight = 10
 
     [[menu.prepend]]
       url = "https://neuchatel2020.satrdays.org/#location"
       name = "Location"
-      weight = 30
+      weight = 20
 
     # postpended links
     [[menu.postpend]]
