@@ -347,7 +347,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Contact section
   [params.contact]
-    enable = true
+    enable = false
     title = "Contact us"
     subtitle  = ""
     buttonText = "Send message"
