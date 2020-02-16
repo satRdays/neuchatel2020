@@ -53,11 +53,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Optional logo as brand stored in img/
     logo = "logo.png"
     services = "About"
-    about = "Dates"
+    about = "Location"
     portfolio = "Talks"
     eventbrite = "Register"
     schedule = "Schedule"
-    team = "People"
+    team = "Speakers"
     contact = "Contact us"
 
     # Add custom links. Those can be pre- and postpended to the default menu above.
