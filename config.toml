@@ -66,6 +66,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     # prepended links
     [[menu.prepend]]
+      url = "https://neuchatel2020.satrdays.org/#register"
+      name = "Register"
+      weight = 10
+
+    [[menu.prepend]]
       url = "https://neuchatel2020.satrdays.org/#hackathon"
       name = "Get involved"
       weight = 10
