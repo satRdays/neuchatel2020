@@ -56,7 +56,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     about = "Dates"
     location = "Location"
     portfolio = "Talks"
-   # tito = "Register"
     schedule = "Schedule"
     team = "Speakers"
     contact = "Contact us"
@@ -76,12 +75,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       name = "Get involved"
       weight = 20
 
+    [[menu.prepend]]
+      url = "https://neuchatel2020.satrdays.org/#location"
+      name = "Location"
+      weight = 30
 
     # postpended links
     [[menu.postpend]]
       url = "http://satrdays.org/"
       name = "satRdays.org"
-      weight = 20
+      weight = 10
 
 
   # Hero section
