@@ -1,13 +1,16 @@
 modalID: 1
-title: "First Talk"
-subtitle: "First Subtitle"
-date: 1970-01-01
+title: "rOpenSci, peer review, statistical software, and R testing"
+subtitle: ""
+date: 2020-03-14
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
 preview: faceholder.png
-client: Speaker One
+client: Mark Padgham
 clientLink: "#"
 category: Category 1
-description: "Describe 1"
+description: "rOpenSci is an organisation dedicated to _Transforming science through open data and software,_ primarily via our own system for peer-reviewing and curating R packages. Our peer review system accepts packages from a variety of categories mainly focussed on data workflows, and we have recently embarked upon a project to expand the scope of peer review to include statistical software--arguably the _true_ core business of the R language. This project provides an opportunity to reconstruct and reconfigure how peer review of software might function. In this talk, I will briefly outline the future vision of this project, and then focus in particular on visions for how testing might be reconceptualised to play a more central role in the development and assessment of R packages."
 talk: true
+
+
+
