@@ -12,7 +12,7 @@
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2">
             <div class="modal-body">
-              {{ $url := printf "img/portfolio/%s" .img }}
+              {{ $url := printf "img/team/%s" .img }}
               <img class="img-responsive img-centered" src="{{ $url | absURL }}" alt="">
               <h2>{{ .title  | markdownify }}</h2>
               <p>{{ with $.Site.Params.portfolio.modal.bio }}{{ . }}{{ end }} {{ .bio  | markdownify }}</p>
