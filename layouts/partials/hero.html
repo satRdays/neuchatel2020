@@ -1,0 +1,12 @@
+{{ "<!-- Hero -->" | safeHTML }}
+<header>
+  <div class="container">
+    <div class="intro-text">
+          <div class="intro-lead-in" style="padding: 3px; display: inline-block; background: rgba(43,77,147,.9);">
+            {{ with .Site.Params.hero.title }}{{ . | markdownify }}{{ end }}</div>
+          <div class="intro-heading" style="padding: 3px; display: inline-block; background: rgba(43,77,147,.9);">
+            {{ with .Site.Params.hero.subtitle }}{{ . | markdownify }}{{ end }}</div>
+      <a href="#register" class="page-scroll btn btn-xl">{{ with .Site.Params.hero.buttonText }}{{ . }}{{ end }}</a>
+    </div>
+  </div>
+</header>

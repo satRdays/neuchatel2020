@@ -94,7 +94,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     title = "satRday Neuchâtel"
     subtitle = "A conference for R users on 14 March 2020"
     bg = true
-    buttonText = "Tell me more"
+    buttonText = "Register"
 
 
   # About [Services] section
