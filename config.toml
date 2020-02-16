@@ -65,15 +65,15 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # below and replace the values with your own.
 
     # prepended links
-   # [[menu.prepend]]
-  #    url = "https://neuchatel2020.satrdays.org/#hackathon"
-  #    name = "Get involved"
-  #    weight = 10
-
-      [[menu.postpend]]
+    [[menu.prepend]]
       url = "https://neuchatel2020.satrdays.org/#hackathon"
       name = "Get involved"
       weight = 10
+
+   #   [[menu.postpend]]
+   #   url = "https://neuchatel2020.satrdays.org/#hackathon"
+   #   name = "Get involved"
+   #   weight = 10
       
     # postpended links
     [[menu.postpend]]
@@ -96,27 +96,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.services]
     enable = true
     title = "About"
-    subtitle = "Conference Details"
+    subtitle = "14 March 2020 at University of Neuchâtel"
 
     [[params.services.row]]
-
-    [[params.services.row.list]]
-      icon = "fa-clock-o"
-      title = "Details"
-      description = "14 March 2020 at University of Neuchâtel"
-      url = "#"
-
-    [[params.services.row.list]]
-      icon = "fa-laptop"
-      title = "Hands on"
-      description = "Practical applications and workshop sessions"
-      url = "#"
-
-    [[params.services.row.list]]
-      icon = "fa-graduation-cap"
-      title = "Learning"
-      description = "Gain knowledge from your peers and experienced professionals"
-      url = "#"
 
     [[params.services.row.list]]
       icon = "fa-users"
