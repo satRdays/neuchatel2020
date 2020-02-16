@@ -52,8 +52,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     brand = "satRday"
     # Optional logo as brand stored in img/
     logo = "logo.png"
-    services = "Location"
-    about = "About"
+    services = "About"
+    location = "Location"
     portfolio = "Talks"
     tito = "Register"
     schedule = "Schedule"
