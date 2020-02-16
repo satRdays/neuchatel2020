@@ -67,7 +67,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     # prepended links
     [[menu.prepend]]
-      url = "https://neuchatel2020.satrdays.org/#register"
+      url = "https://neuchatel2020.satrdays.org/#tito"
       name = "Register"
       weight = 10
 
@@ -76,11 +76,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       name = "Get involved"
       weight = 20
 
-   #   [[menu.postpend]]
-   #   url = "https://neuchatel2020.satrdays.org/#hackathon"
-   #   name = "Get involved"
-   #   weight = 10
-      
+
     # postpended links
     [[menu.postpend]]
       url = "http://satrdays.org/"
@@ -93,7 +89,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "satRday Neuchâtel"
-    subtitle = "A conference for users of the R Language on 14 March 2020"
+    subtitle = "A conference for R users on 14 March 2020"
     bg = true
     buttonText = "Tell me more"
 
