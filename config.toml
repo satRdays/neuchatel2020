@@ -64,11 +64,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Use the weight attribute to order your custom links. Uncomment the example
     # below and replace the values with your own.
 
-    # prepended links
-    [[menu.prepend]]
-      url = "https://neuchatel2020.satrdays.org/#register"
-      name = "Register"
-      weight = 10
+#    # prepended links
+ #   [[menu.prepend]]
+  #    url = "https://neuchatel2020.satrdays.org/#register"
+   #   name = "Register"
+   #   weight = 10
 
     [[menu.prepend]]
       url = "https://neuchatel2020.satrdays.org/#hackathon"
