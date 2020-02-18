@@ -1,0 +1,15 @@
+modalID: 1
+title: "Stella Bollmann"
+subtitle: "Making R accessible for skeptics"
+date: 2020-03-14
+startsAt: 00:00
+endsAt: 00:01
+img: bollmann_400_400.jpg
+preview: bollmann_400_400.jpg
+client: Postdoctoral Researcher at University Lucerne, Statistical Consultant at PH Lucerne & President of Swiss Statistical Society
+clientLink: "#"
+bio: "Stella has a background in Psychology and Statistics and has been working in Academia for many years now as Data Scientist, statistical consulting and lecturer. She has a broad insight into the usage of R in different fields as Statistics, Psychology, Education and Health Care."
+category: Category 1
+description: "As psychologist and statistician, Dr. Bollmann has a good understanding of two very different approaches to using R: The pragmatic approach on the one hand and the technical one on the other hand. In this talk, she will demonstrate how people, who do not consider themselves as mathematicians or computer scientists, can make themselves comfortable with R more easily to ultimately uncover its potential with regard to data management and analysis. Specifically, Dr. Bollmann will highlight (1) the benefits of R in contrast to generic software packages, such as SPSS, (2) readily available tools for data management and analysis in the form of specific R packages, and (3) potential challenges with regard to teaching the usage of R."
+talk: true
+
