@@ -1,0 +1,15 @@
+modalID: 2
+title: "Duc-Quang Nguyen"
+subtitle: "R in the newsroom"
+date: 2020-03-14
+startsAt: 00:00
+endsAt: 00:01
+img: duc_quang_nguyen_400_400.jpg
+preview: duc_quang_nguyen_400_400.jpg
+client: Data Scientist at Tamedia Romandie
+clientLink: "#"
+bio: "Duc is a Data Scientist at Tamedia Romandie (Tribune de Genève, 24 heures, le Matin Dimanche). Previously, Duc worked as a data journalist at SRG-SSR for swissinfo.ch, quantitative analyst for a hedge fund and did a PhD in computational biology"
+category: Category 1
+description: "From breaking news to long term investigations, R is amply used in data journalism. It is present in every step: for scraping and wrangling data, for EDA and even for publishable graphics. I will walk through how I use R by profiling some published stories."
+talk: true
+
