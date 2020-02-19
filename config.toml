@@ -300,6 +300,14 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         ["fa-linkedin", "https://www.linkedin.com/in/sinarueeger/"]
       ]
 
+    [[params.team.members]]
+      img = "yves1.jpg"
+      name = "Yves Tillé"
+      position = "Organiser"
+      bio = """Professor of statistics, University of Neuchatel"""
+      social = [      ]
+
+
   # Client section
   [params.clients_list]
     enable = true
