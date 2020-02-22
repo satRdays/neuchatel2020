@@ -98,7 +98,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.services]
     enable = true
     title = "About"
-    subtitle = "14 March 2020 at University of Neuchâtel"
+    subtitle = "On 14 March 2020 at the [University of Neuchâtel](https://goo.gl/maps/5h5UVH2uz75b4L2x6)"
 
     [[params.services.row]]
 
