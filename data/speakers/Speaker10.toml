@@ -2,7 +2,7 @@ img = "marco_wirthlin_400_400.jpg"
 name = "Marco Wirthlin"
 organisation = "Knowledge Lab AG"
 role = "Data Science Consultant"
-bio = """Marco, a cognitive scientist, is developing and applying bayesian and causal models to human behaviour in the Fintech sector, where he works as a Data Science Consultant for Knowledge Lab AG. His main focus is understanding customer behaviour via interpretable, generative methods."""
+bio = """Marco, a cognitive scientist, is developing and applying Bayesian and causal models to human behaviour in the Fintech sector, where he works as a Data Science Consultant for Knowledge Lab AG. His main focus is understanding customer behaviour via interpretable, generative methods."""
 social = [
         ["fa-github", "https://github.com/Seneketh"],
         ["fa-twitter", "https://twitter.com/MarcoWirthlin"],
