@@ -1,0 +1,14 @@
+img = "john_coene.png"
+name = "John Coene"
+organisation = "World Economic Forum"
+role = "Data Analyst"
+bio = """John Coene is a Data Analyst at the World Economic Forum's Strategic Intelligence team. John maintains to numerous open-source R packages such as waiter, echarts4r, and grapher. John is also part of the RinteRface Group where he contributes to packages such as shinybulma and fullPage."""
+social = [
+        ["fa-github", "https://github.com/JohnCoene"],
+        ["fa-twitter", "https://twitter.com/jdatap"],
+        ["fa-linkedin", "https://www.linkedin.com/in/johncoene/"], 
+	["fa-globe", "https://john-coene.com/"]
+      ]
+
+ 
+ 

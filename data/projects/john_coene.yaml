@@ -1,0 +1,15 @@
+modalID: 4
+title: "John Coene"
+subtitle: "Shiny user feedback with waiter"
+date: 2020-03-14
+startsAt: 00:00
+endsAt: 00:01
+img: john_coene.png
+preview: john_coene.png
+client: Data Analyst at the World Economic Forum
+clientLink: "#"
+bio: "John Coene is a Data Analyst at the World Economic Forum's Strategic Intelligence team. John maintains to numerous open-source R packages such as waiter, echarts4r, and grapher. John is also part of the RinteRface Group where he contributes to packages such as shinybulma and fullPage."
+category: Category 1
+description: "Shiny applications tend to lack user feedback, upon clicking on a button or selecting an item from a dropdown the user is left wondering whether their action actually registered. The waiter package (https://waiter.john-coene.com/) remedies to this by providing a way for the developer to programmatically show and hide loading screens with spinners or loading bars either on the entire app or on parts of the app. It's extremely easy to use and allows making apps feel slicker."
+talk: true
+
