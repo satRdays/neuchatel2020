@@ -139,14 +139,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
     dates = "Feb 2020 (TBA)"
   
-  # Hackathon section
-  [params.hackathon]
-    enable = false
-    bg = false
-    title = "Call for Abstracts"
-    subtitle = "We would love to hear about your work!"
-    brief1="Keen to be part of the program? We have reserved 2 x 30 Minutes sessions for shorter talks. Submit your abstract through https://forms.gle/1trofAy7Gaz8KeHq8. " 
-   
+
 
   # Talk [Portfolio] section
   [params.portfolio]
