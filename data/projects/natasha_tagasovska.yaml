@@ -1,0 +1,20 @@
+modalID: 5
+title: "Natasa Tagasovska"
+subtitle: "Causal discovery from observational data in R - algorithmic information approach"
+date: 2020-03-14
+startsAt: 00:00
+endsAt: 00:01
+img: natasa_tagasovska.jpg
+preview: natasa_tagasovska.jpg
+client: PhD student
+clientLink: "#"
+bio: "Natasa is a computer scientist by training and is currently finishing her PhD at HEC Lausanne. Her main research interest is a deeper understanding of learning models, hence works focuses on causal inference, generative models, uncertainty and interpretability."
+category: Category 1
+description: "Machine learning permeates our lives, with prospects to drive our cars and decide on our medical treatments. These ambitions will not materialize if the learning models remain unable to explain/justify their behaviour when performing under diverse situations. Hence, almost any domain of science and application will benefit from automated causal inference methods. This interest drives an increasing body of research to contribute towards elevation of learning models towards more powerful interpretations: from correlations and dependencies towards causation. While the golden standard for causal discovery is randomized control trials, experiments or interventions in a system are often prohibitively expensive, unethical, or, in many cases, impossible. In this context, an alternative is to use observational data to infer causal relationships. The objective is to tackle specifically this challenging task by presenting algorithms to distinguish causes from effects based on the independence of cause and mechanism postulate). We will present  the common intuition shared by three different approaches their mathematical formulation and the corresponding R implementations. In particular we will look into Additive Noise Models, Information Geometric Causal Discovery and Quantile based Causal Discovery. All three methods will be evaluated on synthetic as well as real data pairs from 9 different domains (biology, material science, finance, physics etc) where the ground truth labels have been agreed on by experts of each field."
+talk: true
+
+ 
+
+ 
+
+
