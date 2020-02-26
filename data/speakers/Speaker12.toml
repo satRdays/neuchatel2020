@@ -1,0 +1,10 @@
+img = "ej_400_400.png"
+name = "Emma Jablonski"
+organisation = "Swiss Data Science Center"
+role = "Data Science Engineer"
+bio = """Emma Jablonski is part of a team working on a platform called Renku for reproducible and collaborative (data) science research at the Swiss Data Science Center (a joint center between EPFL and ETHZ)."""
+social = [
+        ["fa-linkedin", "https://ch.linkedin.com/in/emma-jablonski-55774436"], 
+	["fa-globe", "https://datascience.ch/who-we-are/"]
+      ]
+ 

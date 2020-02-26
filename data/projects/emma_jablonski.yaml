@@ -1,0 +1,15 @@
+modalID: 9
+title: "Emma Jablonski"
+subtitle: "Reproducible data science with the RENKU platform"
+date: 2020-03-14
+startsAt: 00:00
+endsAt: 00:01
+img: ej_400_400.png
+preview: ej_400_400.png
+client: Data Science Engineer at Swiss Data Science Center
+clientLink: "#"
+bio: "Emma Jablonski is part of a team working on a platform called Renku for reproducible and collaborative (data) science research at the Swiss Data Science Center (a joint center between EPFL and ETHZ)."
+category: Category 1
+description: "Communities and funding sources are increasingly demanding reproducibility in scientific work. We present RENKU (https://renkulab.io/): an open-source platform for reproducible data science. From an end-user perspective, through a unique authentication mechanism, the platform provides a seamless integration of an RStudio Server or a Jupyter notebook, git version control, git LFS to handle data, continuous integration via GitLab, containerization via Docker images that can be reused and shared, and automatic workflow generation via a knowledge graph. With RENKU, every step of the data science research that generates new code or data is preserved. This allows scientists to step backwards through the history of their research and retrieve earlier versions of their methods and results. RENKU materializes data science recipes and data lineage into a knowledge representation based on the Common Workflow Language standards (CWL), and PROV-O ontology. Data lineage is automatically recorded and workflow captured within and across RENKU projects, allowing derived data and results to be unambiguously traced back to original raw data sources through all intermediate processing steps."
+talk: true
+

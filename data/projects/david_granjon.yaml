@@ -1,0 +1,15 @@
+modalID: 8
+title: "David Granjon"
+subtitle: "shinyMobile: Mobile-Ready Shiny Apps"
+date: 2020-03-14
+startsAt: 00:00
+endsAt: 00:01
+img: david_granjon_400_400.jpg
+preview: david_granjon_400_400.jpg
+client: Principal Scientific Computing and Consulting at Novartis
+clientLink: "#"
+bio: "At Novartis, David provides support to develop production Shiny apps, HTML templates and train other associates in package development. David also contributes to the R Shiny ecosystem through its open source project, namely [RinteRface](https://rinterface.com), [bs4Dash](https://github.com/RinteRface/bs4Dash) (Bootstrap 4 shinydashboard), [shinyMobile](https://rinterface.github.io/shinyMobile/), the [virtual physiology simulator](https://github.com/DivadNojnarg/CaPO4Sim)."
+category: Category 1
+description: "Have you ever dreamt of a template allowing you to build native looking IOS/Android Shiny apps? For two years, RinteRface soldiers strived to deliver a robust solution aiming at bridging the gap between desktop shiny apps and mobile ready user interfaces: welcome shinyMobile (https://github.com/RinteRface/shinyMobile)."
+talk: true
+
