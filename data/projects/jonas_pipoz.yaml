@@ -10,6 +10,6 @@ client: Project manager at Statistical Office of the Canton of Neuchâtel
 clientLink: "#"
 bio: "Economist and project manager at the Neuchâtel Statistical Office with about 15 years of programming experience."
 category: Category 1
-description: ""
+description: "Our presentation is about analysing the life course of young people on their integration into the labour market. We use Sequence Analysis method with the package TraMiner. Our presentation will be about a complet analysis from a data modeling to result interpretation."
 talk: true
 
