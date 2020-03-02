@@ -9,7 +9,7 @@ preview: arben.png
 client:
 clientLink: "#"
 bio: ""
-category: Category 1
+category: Category 2
 description: "Nowadays, the great majority of digital advertising campaigns are powered by machine learning algorithms. Advertising platforms such as Google Ads encourage users to exploit its ML algorithms from the onset. However, ML algorithms require data to function properly. As a consequence, during the initial learning phase advertising platforms will spend a lot of money to understand what works and what doesn’t. This process doesn’t necessarily bring the expected results, which leads to advertisers being disappointed. In my talk, I will explain how we can reap the benefits of machine learning without falling prey to overspending."
 talk: true
 
