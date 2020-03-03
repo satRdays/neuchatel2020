@@ -73,10 +73,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     # postpended links
 
-    [[menu.postpend]]
-      url = "https://neuchatel2020.satrdays.org/#location"
-      name = "Location"
-      weight = 10
 
     [[menu.postpend]]
       url = "http://satrdays.org/"
