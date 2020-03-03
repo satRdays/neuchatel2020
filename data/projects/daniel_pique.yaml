@@ -1,0 +1,14 @@
+modalID: 13
+title: "Daniel Piqué"
+subtitle: "A lesson in biomedical research reproducibility: How I discovered a missing data point in a paper with 8000+ citations"
+date: 2020-03-14
+startsAt: 00:00
+endsAt: 00:01
+img: daniel_pique.jpg
+preview: daniel_pique.jpg
+client: MD-PhD candidate at Albert Einstein College of Medicine (Einstein), New York
+clientLink: "#"
+bio: "Daniel is 7th year MD-PhD candidate at Albert Einstein College of Medicine (Einstein) in the Bronx, NY. He completed his PhD in the Department of Systems and Computational Biology at Einstein in 2018 with Drs. Jessica Mar and John Greally where he developed two R packages (oncomix, receptLoss) and a RShiny web application (aneuvis) for analyzing and visualizing genomic data. He is currently in his final months of medical school and will start his clinical residency in July 2020."
+category: Category 1
+description: "Reproducibility of foundational, highly-cited studies in biomedical research is important but technically difficult, as data sets are often not easily accessible. This is particularly true for important papers published before the dawn of modern computing. Here, I attempt to reproduce Figure 1 from a paper published in 1971 that has received 8000+ citations and formed the basis for the two-hit hypothesis, a fundamental theory in cancer biology. The data used to produce Figure 1 was provided in the paper as Table 1, which I converted into a R data package called ‘knudson.’ Using the data from Table 1, along with tools from the tidyverse, Figure 1 could be replicated nearly identically, with the exception of 1 missing data point and error in the exponent of the fitted curve. The lessons learned from attempting to reproduce Figure 1 from the data in Table 1 are contained as a vignette within the ‘knudson’ package (available on github) and will be discussed in this talk. I will conclude by discussing strategies for ensuring that highly-cited research papers, both past and present, are reproducible."
+talk: true
