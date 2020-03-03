@@ -1,0 +1,14 @@
+modalID: 12
+title: "Kirill Müller"
+subtitle: "Relational Data Models with the dm Package"
+date: 2020-03-14
+startsAt: 00:00
+endsAt: 00:01
+img: kirill2_400_400.jpg
+preview: kirill2_400_400.jpg
+client: cynkra
+clientLink: "#"
+bio: "Kirill has worked on the boundary between data and computer science with more than 20 years of software engineering experience. He has enjoyed working with and contributing to the R ecosystem since 2012."
+category: Category 1
+description: "Kirill will present {dm}, a new package that facilitates working with multiple tables: data frames or database tables. Use cases include consuming, cleaning, defining and publishing relational data models."
+talk: true
