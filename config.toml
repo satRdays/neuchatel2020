@@ -89,7 +89,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "satRday Neuchâtel"
-    subtitle = "A conference for R users on 14 March 2020"
+    subtitle = "A (now remote) conference for R users on 14 March 2020"
     bg = true
     buttonText = "Register"
 
@@ -98,7 +98,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.services]
     enable = true
     title = "About"
-    subtitle = "On 14 March 2020 at the [University of Neuchâtel](https://goo.gl/maps/5h5UVH2uz75b4L2x6)"
+    subtitle = "Happening on 14 March 2020 online."
 
     [[params.services.row]]
 
@@ -111,7 +111,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-money"
       title = "Affordable"
-      description = "Only 20 CHF (10 CHF for students)"
+      description = "Free"
       url = "#"
 
     [[params.services.row.list]]
@@ -203,7 +203,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   
   # Location section
   [params.location]
-    enable = true
+    enable = false
     title = "Auditoire Louis-Guillaume, University of Neuchâtel"
     subtitle = "Auditoire Louis-Guillaume, 2ème étage (ALG) F200 116, Bâtiment Unimail (Accès par l’entrée nord)"
     bg = true
