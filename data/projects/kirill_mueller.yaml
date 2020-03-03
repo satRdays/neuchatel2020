@@ -1,9 +1,9 @@
 modalID: 12
 title: "Kirill Müller"
-subtitle: "Relational Data Models with the dm Package"
+subtitle: "Relational Data Models with the {dm} Package"
 date: 2020-03-14
-startsAt: 00:00
-endsAt: 00:01
+startsAt: 10:10
+endsAt: 10:35
 img: kirill2_400_400.jpg
 preview: kirill2_400_400.jpg
 client: cynkra

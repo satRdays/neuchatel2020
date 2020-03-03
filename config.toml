@@ -156,8 +156,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Schedule section
   [params.schedule]
-    enable = false
-    title = "Schedule"
+    enable = true
+    title = "Schedule (tentative)"
     bg = false
 
   # Important Dates [About] section
