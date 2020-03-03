@@ -1,0 +1,14 @@
+modalID: 14
+title: "Giulia Ruggeri"
+subtitle: "Toolbox for geospatial data in R"
+date: 2020-03-14
+startsAt: 00:00
+endsAt: 00:01
+img: giulia_ruggeri.jpg
+preview: giulia_ruggeri.jpg
+client: Course Developer and Instructor at EPFL Extension School
+clientLink: "#"
+bio: ""
+category: Category 1
+description: "Over the past years, R has become a comprehensive toolbox for visualizing geospatial data and perform geostatistical analysis. In particular, the {sf} and {raster} packages include all the necessary functions to visualize and manipulate vector and raster data. The visualization possibilities have although increased with packages such as {rayshader}, {leaflet} and {mapview}. In this talk we will see how to create maps in R, using different packages, going from static representation to interactive ones."
+talk: true

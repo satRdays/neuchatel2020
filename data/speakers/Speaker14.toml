@@ -1,0 +1,9 @@
+img = "giulia_ruggeri.jpg"
+name = "Giulia Ruggeri"
+organisation = "EPFL Extension School"
+role = "Course Developer and Instructor"
+bio = """ """
+social = [
+	["fa-linkedin", "https://www.linkedin.com/in/giulia-ruggeri/"]
+      ]
+ 

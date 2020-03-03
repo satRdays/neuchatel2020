@@ -5,7 +5,6 @@ role = "MD-PhD candidate"
 bio = """Daniel is 7th year MD-PhD candidate at Albert Einstein College of Medicine (Einstein) in the Bronx, NY. He completed his PhD in the Department of Systems and Computational Biology at Einstein in 2018 with Drs. Jessica Mar and John Greally where he developed two R packages (oncomix, receptLoss) and a RShiny web application (aneuvis) for analyzing and visualizing genomic data. He is currently in his final months of medical school and will start his clinical residency in July 2020."""
 social = [
         ["fa-github", "https://github.com/dpique"],
-        ["fa-twitter", "https://twitter.com/dpique12"],
 	["fa-linkedin", "https://www.linkedin.com/in/daniel-pique/"], 
 	["fa-globe", "https://dpique.rbind.io/"]
       ]
