@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://neuchatel2020.satrdays.org" 
+baseurl = "https://neuchatel2020.satrdays.org"
 languageCode = "en-us"
 title = "satRday"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
@@ -134,7 +134,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     CfSpage = "/test3490"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
     dates = "Feb 2020 (TBA)"
-  
+
 
 
   # Talk [Portfolio] section
@@ -156,7 +156,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Schedule section
   [params.schedule]
-    enable = false
+    enable = true
     title = "Schedule"
     bg = false
 
@@ -196,7 +196,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       date = "20 February 2020"
       title = "Call For Abstracts Ends"
       description = "Cut off date for speaker submissions"
-  
+
   # Location section
   [params.location]
     enable = false
@@ -215,7 +215,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     bg = false
     description = ""
     speakers = "Speakers"
-    
+
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
@@ -326,11 +326,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.clients]]
       logo = "Logo-sss_farbig.jpg"
       link = "https://www.stat.ch/en/"
-  
+
     [[params.clients]]
       logo = "a+_logo_SCNAT_MULTI_RGB.png"
       link = "https://naturalsciences.ch/"
-  
+
 
 
 
