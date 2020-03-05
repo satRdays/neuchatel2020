@@ -1,0 +1,8 @@
+img = "linda_decave.jpg"
+name = "Linda Maria de Cave"
+organisation = "Knowledge Lab AG"
+role = "Mathematician, Data scientist"
+bio = """Linda holds a PhD in Mathematics and, after two postdocs positions, decided to move to Data Science. She is currently working as Data Scientist for Knowledge Lab AG. She is mainly focused on the development of highly tuned machine learning models, also by exploiting topological attributes of the datasets."""
+social = [
+	["fa-linkedin", "linkedin.com/in/lindamariadecave"]
+      ]

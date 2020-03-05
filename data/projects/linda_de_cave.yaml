@@ -1,0 +1,14 @@
+modalID: 15
+title: "Linda Maria de Cave"
+subtitle: "Topological data analysis"
+date: 2020-03-14
+startsAt: 13:35
+endsAt: 13:50
+img: linda_decave.jpg
+preview: linda_decave.jpg
+client: Mathematician, Data scientist at Knowledge Lab AG
+clientLink: "#"
+bio: "Linda holds a PhD in Mathematics and, after two postdocs positions, decided to move to Data Science. She is currently working as Data Scientist for Knowledge Lab AG. She is mainly focused on the development of highly tuned machine learning models, also by exploiting topological attributes of the datasets."
+category: Category 1
+description: "We showcase Topological Data Analysis (TDA) and related tools. TDA is a method for extracting patterns from data, which allows for powerful conclusions regarding not only data structures, but also relationships between them. TDA has been applied recently in genome research, social sciences, in the biomedical sector, particle physics and the financial sector. In our talk, we will give a small conceptual introduction to TDA, followed by a tutorial-style use-case (we will make material available on Github)."
+talk: true
