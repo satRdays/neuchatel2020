@@ -309,27 +309,27 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # All the clients' logos are stored under 'static/img/logos'.
     # Replace them with your clients's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
-    [[params.clients]]
-      logo = "UniNE_pos_c.jpg"
-      link = "https://www.unine.ch/"
+   # [[params.clients]]
+   #   logo = "UniNE_pos_c.jpg"
+   #   link = "https://www.unine.ch/"
 
     [[params.clients]]
       logo = "partnerre.jpg"
       link = "https://partnerre.com/"
 
 
-    [[params.clients]]
-      logo = "HEC_unilogo_bleu_300dpi.jpg"
-      link = "https://www.unil.ch/hec/en/home.html"
+  #  [[params.clients]]
+  #    logo = "HEC_unilogo_bleu_300dpi.jpg"
+  #    link = "https://www.unil.ch/hec/en/home.html"
 
 
-    [[params.clients]]
-      logo = "Logo-sss_farbig.jpg"
-      link = "https://www.stat.ch/en/"
+  #  [[params.clients]]
+  #    logo = "Logo-sss_farbig.jpg"
+  #    link = "https://www.stat.ch/en/"
 
-    [[params.clients]]
-      logo = "a+_logo_SCNAT_MULTI_RGB.png"
-      link = "https://naturalsciences.ch/"
+  #  [[params.clients]]
+  #    logo = "a+_logo_SCNAT_MULTI_RGB.png"
+  #    link = "https://naturalsciences.ch/"
 
 
 
