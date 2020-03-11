@@ -2,7 +2,7 @@ img = "giulia_ruggeri.jpg"
 name = "Giulia Ruggeri"
 organisation = "EPFL Extension School"
 role = "Course Developer and Instructor"
-bio = """ """
+bio = """ Giulia has a background in Chemistry and Atmospheric Science and is now working as an R course developer and instructor at the EPFL Extension School. Since three years, she is also a consultant in data analysis and visualization of air pollution and health data at the World Health Organization. """
 social = [
 	["fa-linkedin", "https://www.linkedin.com/in/giulia-ruggeri/"]
       ]
