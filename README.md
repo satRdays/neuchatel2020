@@ -18,7 +18,7 @@
 | Daniel Piqué  |  [A lesson in biomedical research reproducibility: How I discovered a missing data point in a paper with 8000+ citations](https://drive.google.com/file/d/1Crfvm75x9bM3-Xw5dJ0br3FhFAPt_Ow_/view?usp=sharing) |
 | Marco Wirthlin / Linda Maria de Cave  | [Topological data analysis](https://drive.google.com/file/d/1o8pUM2dAtlh2dAdkCpOw3QfYdkbOC0fR/view?usp=sharing)|
 | Jonas Pipoz / Eric Röthlisberger  | [Studing life courses with sequence analysis](https://drive.google.com/file/d/1J1meAuGdJkD-UPmFIocmEkVZubL9r-ne/view?usp=sharing) |
-| Natasa Tagasovska  | Causal discovery from observational data in R - algorithmic information approach  |
+| Natasa Tagasovska  | [Causal discovery from observational data in R - algorithmic information approach](https://drive.google.com/file/d/1WCoBJJqvgmjxhDzFySauBUOy7V5FFYy8/view?usp=sharing)  |
 | Arben Kqiku| Overfitting & overspending, a digital marketing tale |
 | John Coene | Shiny user feedback with waiter |
 | Duc-Quang Nguyen|  R in the newsroom |
