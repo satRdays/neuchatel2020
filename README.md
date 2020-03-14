@@ -13,8 +13,8 @@
 | Benjamin Abt  | [Using R in Production at PartnerRe: Framework and applications](https://drive.google.com/file/d/1UmiW8zsVFg6SY9rwAg7Hd0CefS0EClKC/view?usp=sharing)  |
 | Kirill Müller |  [Relational Data Models with the dm Package](https://krlmlr.github.io/dm-slides/index.html#1) |
 | Giulia Ruggeri  | [Cartography in R: an overview of the geospatial visualisation landscape](https://drive.google.com/file/d/1de3dTrAj90e2R9zp9gYPy2kdCjbzdvvK/view?usp=sharing)  |
-| Emma Jablonski  |  Reproducible data science with the RENKU platform |
-| Mark Padgham  |  rOpenSci, peer review, statistical software, and R testing |
+| Emma Jablonski  |  [Reproducible data science with the RENKU platform](https://drive.google.com/file/d/1-7JD0j2F_lMrmrN4FQTBpVHdDiBszCm7/view?usp=sharing) |
+| Mark Padgham  |  [rOpenSci, peer review, statistical software, and R testing](https://mpadge.github.io/satRday-neuchatel-2020/#1) |
 | Daniel Piqué  |  A lesson in biomedical research reproducibility: How I discovered a missing data point in a paper with 8000+ citations |
 | Marco Wirthlin / Linda Maria de Cave  | Topological data analysis|
 | Jonas Pipoz / Eric Röthlisberger  | Studing life courses with sequence analysis|
