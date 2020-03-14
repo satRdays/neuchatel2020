@@ -16,7 +16,7 @@
 | Emma Jablonski  |  [Reproducible data science with the RENKU platform](https://drive.google.com/file/d/1-7JD0j2F_lMrmrN4FQTBpVHdDiBszCm7/view?usp=sharing) |
 | Mark Padgham  |  [rOpenSci, peer review, statistical software, and R testing](https://mpadge.github.io/satRday-neuchatel-2020/#1) |
 | Daniel Piqué  |  A lesson in biomedical research reproducibility: How I discovered a missing data point in a paper with 8000+ citations |
-| Marco Wirthlin / Linda Maria de Cave  | Topological data analysis|
+| Marco Wirthlin / Linda Maria de Cave  | [Topological data analysis](https://drive.google.com/file/d/1o8pUM2dAtlh2dAdkCpOw3QfYdkbOC0fR/view?usp=sharing)|
 | Jonas Pipoz / Eric Röthlisberger  | Studing life courses with sequence analysis|
 | Natasa Tagasovska  | Causal discovery from observational data in R - algorithmic information approach  |
 | Arben Kqiku| Overfitting & overspending, a digital marketing tale |
