@@ -2,7 +2,7 @@
 
 - neuchatel2020.satrdays.org
 - [Schedule](https://neuchatel2020.satrdays.org/#schedule)
-- [Speakers](https://neuchatel2020.satrdays.org/#talks)
+- [Speakers](https://neuchatel2020.satrdays.org/#portfolio)
 - [Code of Conduct](https://knowledgebase.satrdays.org/diversity/)
 
 ## Slides
