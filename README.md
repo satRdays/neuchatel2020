@@ -10,6 +10,18 @@
 | Giulia Ruggeri  | Cartography in R: an overview of the geospatial visualisation landscape  |
 | Emma Jablonski  |  Reproducible data science with the RENKU platform |
 | Mark Padgham  |  rOpenSci, peer review, statistical software, and R testing |
-|   |   |
-
+| Daniel Piqué  |  A lesson in biomedical research reproducibility: How I discovered a missing data point in a paper with 8000+ citations |
+| Marco Wirthlin / Linda Maria de Cave  | Topological data analysis
+  |
+| Jonas Pipoz / Eric Röthlisberger  | Studing life courses with sequence analysis
+  |
+| Natasa Tagasovska  | Causal discovery from observational data in R - algorithmic information approach  |
+| Arben Kqiku
+  | Overfitting & overspending, a digital marketing tale |
+| John Coene
+  | Shiny user feedback with waiter |
+| Duc-Quang Nguyen
+  |  R in the newsroom |
+| David Granjon
+  | shinyMobile: Mobile-Ready Shiny Apps  |
 
