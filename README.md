@@ -22,5 +22,5 @@
 | Arben Kqiku| [Overfitting & overspending, a digital marketing tale](https://docs.google.com/presentation/d/1lNVWez7SR1E1tU6ucMlfo1SnN2px49Gsdgs2SFEzzHg/edit?ts=5e6c0811) |
 | John Coene | [Shiny user feedback with waiter](https://john-coene.com/talks/satrday-neuchatel/) |
 | Duc-Quang Nguyen|  [R in the newsroom]() |
-| David Granjon| shinyMobile: Mobile-Ready Shiny Apps  |
+| David Granjon| [shinyMobile: Mobile-Ready Shiny Apps](https://rinterface.com/satRdayNeuch2020/#slide=1)  |
 
