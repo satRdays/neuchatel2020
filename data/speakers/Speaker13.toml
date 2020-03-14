@@ -6,6 +6,7 @@ bio = """Daniel is 7th year MD-PhD candidate at Albert Einstein College of Medic
 social = [
         ["fa-github", "https://github.com/dpique"],
 	["fa-linkedin", "https://www.linkedin.com/in/daniel-pique/"], 
-	["fa-globe", "https://dpique.rbind.io/"]
+	["fa-globe", "https://dpique.rbind.io/"],
+	["fa-twitter", "https://twitter.com/dpique12"]
       ]
  
