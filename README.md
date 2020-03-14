@@ -4,10 +4,12 @@
 
 |Speaker   | Talk  |
 |---|---|
-| Stella Bollmann  |   |
-| [Benjamin Abt](https://drive.google.com/file/d/1UmiW8zsVFg6SY9rwAg7Hd0CefS0EClKC/view?usp=sharing)  |   |
-| Kirill Müller |   |
-| Giulia Ruggeri  |   |
-| Emma Jablonski  |   |
-| Mark Padgham  |   |
+| Stella Bollmann  | Making R accessible for skeptics  |
+| [Benjamin Abt](https://drive.google.com/file/d/1UmiW8zsVFg6SY9rwAg7Hd0CefS0EClKC/view?usp=sharing)  | Using R in Production at PartnerRe: Framework and applications.  |
+| Kirill Müller |  Relational Data Models with the dm Package |
+| Giulia Ruggeri  | Cartography in R: an overview of the geospatial visualisation landscape  |
+| Emma Jablonski  |  Reproducible data science with the RENKU platform |
+| Mark Padgham  |  rOpenSci, peer review, statistical software, and R testing |
 |   |   |
+
+
