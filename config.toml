@@ -66,10 +66,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     # prepended links
 
-    [[menu.prepend]]
-      url = "https://neuchatel2020.satrdays.org/#tito"
-      name = "Registration"
-      weight = 10
+   # [[menu.prepend]]
+   #   url = "https://neuchatel2020.satrdays.org/#tito"
+    #  name = "Registration"
+    #  weight = 10
 
     # postpended links
 
@@ -87,7 +87,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     title = "satRday Neuchâtel"
     subtitle = "A (now remote) conference for R users on 14 March 2020"
     bg = true
-    buttonText = "Register"
+    buttonText = "Thanks to everyone for joining!"
 
 
   # About [Services] section
@@ -119,7 +119,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
  # Register section
   # You only need ONE of these active
   [params.tito]
-    enable = true
+    enable = false
     title = "Register"
     bg = true
     accountevent = "satrday-neuchatel/satrday-neuchatel-2020-edition"
