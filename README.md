@@ -1,6 +1,6 @@
 # SatRdays Neuchatel 2020
 
-- neuchatel2020.satrdays.org
+- https://neuchatel2020.satrdays.org/
 - [Schedule](https://neuchatel2020.satrdays.org/#schedule)
 - [Speakers](https://neuchatel2020.satrdays.org/#portfolio)
 - [Code of Conduct](https://knowledgebase.satrdays.org/diversity/)
@@ -19,8 +19,8 @@
 | Marco Wirthlin / Linda Maria de Cave  | [Topological data analysis](https://drive.google.com/file/d/1o8pUM2dAtlh2dAdkCpOw3QfYdkbOC0fR/view?usp=sharing)|
 | Jonas Pipoz / Eric Röthlisberger  | [Studing life courses with sequence analysis](https://drive.google.com/file/d/1J1meAuGdJkD-UPmFIocmEkVZubL9r-ne/view?usp=sharing) |
 | Natasa Tagasovska  | [Causal discovery from observational data in R - algorithmic information approach](https://drive.google.com/file/d/1pAzzblUer2H6EPjI6lsB9MAbUIBxIAx1/view)  |
-| Arben Kqiku| Overfitting & overspending, a digital marketing tale |
-| John Coene | Shiny user feedback with waiter |
-| Duc-Quang Nguyen|  R in the newsroom |
-| David Granjon| shinyMobile: Mobile-Ready Shiny Apps  |
+| Arben Kqiku| [Overfitting & overspending, a digital marketing tale](https://docs.google.com/presentation/d/1lNVWez7SR1E1tU6ucMlfo1SnN2px49Gsdgs2SFEzzHg/edit?ts=5e6c0811) |
+| John Coene | [Shiny user feedback with waiter](https://john-coene.com/talks/satrday-neuchatel/) |
+| Duc-Quang Nguyen|  [R in the newsroom](https://drive.google.com/file/d/1OZ15YLppXqd8fA9Ye3NQlgoz9V5c3R_a/view?usp=sharing) |
+| David Granjon| [shinyMobile: Mobile-Ready Shiny Apps](https://rinterface.com/shiny/talks/satRdayNeuch2020/#slide=1)  |
 
