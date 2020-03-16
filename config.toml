@@ -67,9 +67,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # prepended links
 
    # [[menu.prepend]]
-   #   url = "https://neuchatel2020.satrdays.org/#tito"
-    #  name = "Registration"
-    #  weight = 10
+      url = "https://docs.google.com/document/d/1ZXmwVibQKtfCY_HiB49-OhQL-yKhUS9YD9yeMQZH88E/edit?usp=sharing"
+      name = "Remote conference tips"
+      weight = 10
 
     # postpended links
 
