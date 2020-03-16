@@ -66,10 +66,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     # prepended links
 
-   # [[menu.prepend]]
-      url = "https://docs.google.com/document/d/1ZXmwVibQKtfCY_HiB49-OhQL-yKhUS9YD9yeMQZH88E/edit?usp=sharing"
-      name = "Remote conference tips"
-      weight = 10
 
     # postpended links
 
@@ -77,8 +73,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[menu.postpend]]
       url = "http://satrdays.org/"
       name = "satRdays.org"
-      weight = 20
+      weight = 10
 
+    [[menu.postpend]]
+      url = "https://docs.google.com/document/d/1ZXmwVibQKtfCY_HiB49-OhQL-yKhUS9YD9yeMQZH88E/edit?usp=sharing"
+      name = "Remote conference tips"
+      weight = 20
 
   # Hero section
   [params.hero]
