@@ -19,8 +19,8 @@
 | Marco Wirthlin / Linda Maria de Cave  | [Topological data analysis](https://drive.google.com/file/d/1o8pUM2dAtlh2dAdkCpOw3QfYdkbOC0fR/view?usp=sharing)| [Tutorial](https://seneketh.github.io/satRdays_TDA/)  |[Recording](https://www.youtube.com/watch?v=mIub79xhWmY) |
 | Jonas Pipoz / Eric Röthlisberger  | [Studing life courses with sequence analysis](https://drive.google.com/file/d/1J1meAuGdJkD-UPmFIocmEkVZubL9r-ne/view?usp=sharing) |  |[Recording](https://www.youtube.com/watch?v=Lmvyp6tw40o) |
 | Natasa Tagasovska  | [Causal discovery from observational data in R - algorithmic information approach](https://drive.google.com/file/d/1pAzzblUer2H6EPjI6lsB9MAbUIBxIAx1/view)  |  | [Recording](https://www.youtube.com/watch?v=F5uiHYkqBto)|
-| Arben Kqiku| [Overfitting & overspending, a digital marketing tale](https://docs.google.com/presentation/d/1lNVWez7SR1E1tU6ucMlfo1SnN2px49Gsdgs2SFEzzHg/edit?ts=5e6c0811) |  | |
-| John Coene | [Shiny user feedback with waiter](https://john-coene.com/talks/satrday-neuchatel/) |  | |
-| Duc-Quang Nguyen|  [R in the newsroom](https://drive.google.com/file/d/1OZ15YLppXqd8fA9Ye3NQlgoz9V5c3R_a/view?usp=sharing) |  | |
-| David Granjon| [shinyMobile: Mobile-Ready Shiny Apps](https://rinterface.com/shiny/talks/satRdayNeuch2020/#slide=1)  |  | |
+| Arben Kqiku| [Overfitting & overspending, a digital marketing tale](https://docs.google.com/presentation/d/1lNVWez7SR1E1tU6ucMlfo1SnN2px49Gsdgs2SFEzzHg/edit?ts=5e6c0811) |  | [Recording](https://www.youtube.com/watch?v=lBpy_cT0tHo)  |
+| John Coene | [Shiny user feedback with waiter](https://john-coene.com/talks/satrday-neuchatel/) |  | [Recording](https://www.youtube.com/watch?v=qBu88OfXiT4)  |
+| Duc-Quang Nguyen|  [R in the newsroom](https://drive.google.com/file/d/1OZ15YLppXqd8fA9Ye3NQlgoz9V5c3R_a/view?usp=sharing) |  | [Recording](https://www.youtube.com/watch?v=GhPMd6F33vM) |
+| David Granjon| [shinyMobile: Mobile-Ready Shiny Apps](https://rinterface.com/shiny/talks/satRdayNeuch2020/#slide=1)  |  | [Recording](https://www.youtube.com/watch?v=3Ggr-ZMIUpc) |
 
